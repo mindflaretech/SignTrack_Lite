@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.nostrumlite.android.app-mergeDebugResources-21:/values-en-rIN/values-en-rIN.xml",
+            "outputFile": "com.signTrack.android.app-mergeDebugResources-21:/values-en-rIN/values-en-rIN.xml",
             "map": [
                 {
-                    "source": "/Users/aligohar/.gradle/caches/transforms-3/7bcf2a17f9b75db82e2f1633ac8ddf1f/transformed/jetified-exoplayer-core-2.18.7/res/values-en-rIN/values-en-rIN.xml",
+                    "source": "/Users/user/.gradle/caches/transforms-3/1b1585ec5604c178424641fc740e3999/transformed/jetified-exoplayer-core-2.18.7/res/values-en-rIN/values-en-rIN.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10",
                         "startColumns": "4,4,4,4,4,4,4,4,4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/Users/aligohar/.gradle/caches/transforms-3/e73600b7204754fa6eaab4c4f4dd2179/transformed/core-1.10.1/res/values-en-rIN/values-en-rIN.xml",
+                    "source": "/Users/user/.gradle/caches/transforms-3/7fcaf05ac8f2fb224caef7ff13c7f1a5/transformed/core-1.10.1/res/values-en-rIN/values-en-rIN.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
@@ -38,7 +38,7 @@
                     }
                 },
                 {
-                    "source": "/Users/aligohar/.gradle/caches/transforms-3/4fedf0b2e68f893a44b6c460f500b31e/transformed/browser-1.5.0/res/values-en-rIN/values-en-rIN.xml",
+                    "source": "/Users/user/.gradle/caches/transforms-3/ed23c78902c6dbcc79ade0fbddde7f09/transformed/browser-1.5.0/res/values-en-rIN/values-en-rIN.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",

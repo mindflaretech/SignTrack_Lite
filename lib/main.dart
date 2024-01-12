@@ -31,21 +31,21 @@ void main() async {
     firebaseOptions = const FirebaseOptions(
       apiKey:
           "AIzaSyBpfZhjrkjeS-nkP-yAj-JmbrZ7j1NfVyE", //*** API can be found in FCM google JSON file
-      appId: "1:906985510839:android:ed1f651158bb96f7b3ba32",
+      appId: "1:339329536042:android:bdf5b9bfa85c2c52abb353",
       messagingSenderId: "906985510839",
       projectId: "tracknowpk-1cadd",
     );
   } else if (Platform.isIOS) {
     firebaseOptions = const FirebaseOptions(
       apiKey: 'AIzaSyCr18uJPowZZFyoBcPWTqIDQ7lRmtxovZk',
-      appId: '1:906985510839:ios:e32d41035e594d12b3ba32',
+      appId: '1:339329536042:ios:c53e952de0f3cf78abb353',
       messagingSenderId: '906985510839',
       projectId: 'tracknowpk-1cadd',
     );
   }
 
   await Firebase.initializeApp(
-    name: 'Nostrum_Track',
+    name: 'Sign_Track',
     options: firebaseOptions,
   );
   FirebaseMessaging.instance.requestPermission();

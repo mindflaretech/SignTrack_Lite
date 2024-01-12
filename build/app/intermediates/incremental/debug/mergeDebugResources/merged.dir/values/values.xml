@@ -142,7 +142,6 @@
     <string name="common_signin_button_text">Sign in</string>
     <string name="common_signin_button_text_long">Sign in with Google</string>
     <string name="copy_toast_msg">Link copied to clipboard</string>
-    <string name="default_web_client_id" translatable="false">906985510839-phno2770ga5qrigvp89ndlmrog38gvjq.apps.googleusercontent.com</string>
     <string name="exo_download_completed">Download completed</string>
     <string name="exo_download_description">Download</string>
     <string name="exo_download_downloading">Downloading</string>
@@ -156,12 +155,12 @@
     <string name="fallback_menu_item_open_in_browser">Open in browser</string>
     <string name="fallback_menu_item_share_link">Share link</string>
     <string name="fcm_fallback_notification_channel_label">Miscellaneous</string>
-    <string name="gcm_defaultSenderId" translatable="false">906985510839</string>
-    <string name="google_api_key" translatable="false">AIzaSyBpfZhjrkjeS-nkP-yAj-JmbrZ7j1NfVyE</string>
-    <string name="google_app_id" translatable="false">1:906985510839:android:ed1f651158bb96f7b3ba32</string>
-    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBpfZhjrkjeS-nkP-yAj-JmbrZ7j1NfVyE</string>
-    <string name="google_storage_bucket" translatable="false">tracknowpk-1cadd.appspot.com</string>
-    <string name="project_id" translatable="false">tracknowpk-1cadd</string>
+    <string name="gcm_defaultSenderId" translatable="false">339329536042</string>
+    <string name="google_api_key" translatable="false">AIzaSyBd7u3Jl_979xmMn3-9NtTcPKqFce5smkY</string>
+    <string name="google_app_id" translatable="false">1:339329536042:android:bdf5b9bfa85c2c52abb353</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBd7u3Jl_979xmMn3-9NtTcPKqFce5smkY</string>
+    <string name="google_storage_bucket" translatable="false">autotel-2f5a1.appspot.com</string>
+    <string name="project_id" translatable="false">autotel-2f5a1</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <style name="LaunchTheme" parent="@android:style/Theme.Light.NoTitleBar">
         

@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
           xmlns:tools="http://schemas.android.com/tools"
-          package="com.nostrumlite.android">
+          package="com.signTrack.android">
    <uses-permission android:name="android.permission.INTERNET" />
    <queries>
      <intent>
@@ -31,7 +31,7 @@
     </queries>
 
    <application
-        android:label="Nostrum track"
+        android:label="Sign Track"
         android:usesCleartextTraffic="true"
         android:name="${applicationName}"
         android:icon="@mipmap/launcher_icon">
@@ -54,7 +54,7 @@
               />
             <meta-data
                  android:name="com.google.firebase.messaging.default_notification_channel_id"
-                 android:value="com.nostrumlite.android" />
+                 android:value="com.signTrack.android" />
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
                 <category android:name="android.intent.category.LAUNCHER"/>

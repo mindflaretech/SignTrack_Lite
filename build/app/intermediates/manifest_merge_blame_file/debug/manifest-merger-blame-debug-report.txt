@@ -1,8 +1,8 @@
 1<?xml version="1.0" encoding="utf-8"?>
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-3    package="com.nostrumlite.android"
-4    android:versionCode="2"
-5    android:versionName="1.0.2" >
+3    package="com.signTrack.android"
+4    android:versionCode="4"
+5    android:versionName="1.0.4" >
 6
 7    <uses-sdk
 8        android:minSdkVersion="21"
@@ -13,123 +13,123 @@
 13         to allow setting breakpoints, to provide hot reload, etc.
 14    -->
 15    <uses-permission android:name="android.permission.INTERNET" />
-15-->/Users/aligohar/Development/Autotel-Lite/White_Labeling/nostrum-track/android/app/src/main/AndroidManifest.xml:4:4-66
-15-->/Users/aligohar/Development/Autotel-Lite/White_Labeling/nostrum-track/android/app/src/main/AndroidManifest.xml:4:21-63
+15-->/Users/user/Development/Projects/Flutter_Projects/AutoTeleLite/uploadLabel/SignTrack_Lite/SignTrack/android/app/src/main/AndroidManifest.xml:4:4-66
+15-->/Users/user/Development/Projects/Flutter_Projects/AutoTeleLite/uploadLabel/SignTrack_Lite/SignTrack/android/app/src/main/AndroidManifest.xml:4:21-63
 16
 17    <queries>
-17-->/Users/aligohar/Development/Autotel-Lite/White_Labeling/nostrum-track/android/app/src/main/AndroidManifest.xml:5:4-31:15
+17-->/Users/user/Development/Projects/Flutter_Projects/AutoTeleLite/uploadLabel/SignTrack_Lite/SignTrack/android/app/src/main/AndroidManifest.xml:5:4-31:15
 18        <intent>
-18-->/Users/aligohar/Development/Autotel-Lite/White_Labeling/nostrum-track/android/app/src/main/AndroidManifest.xml:6:6-8:15
+18-->/Users/user/Development/Projects/Flutter_Projects/AutoTeleLite/uploadLabel/SignTrack_Lite/SignTrack/android/app/src/main/AndroidManifest.xml:6:6-8:15
 19            <action android:name="android.intent.action.TTS_SERVICE" />
-19-->/Users/aligohar/Development/Autotel-Lite/White_Labeling/nostrum-track/android/app/src/main/AndroidManifest.xml:7:9-68
-19-->/Users/aligohar/Development/Autotel-Lite/White_Labeling/nostrum-track/android/app/src/main/AndroidManifest.xml:7:17-65
+19-->/Users/user/Development/Projects/Flutter_Projects/AutoTeleLite/uploadLabel/SignTrack_Lite/SignTrack/android/app/src/main/AndroidManifest.xml:7:9-68
+19-->/Users/user/Development/Projects/Flutter_Projects/AutoTeleLite/uploadLabel/SignTrack_Lite/SignTrack/android/app/src/main/AndroidManifest.xml:7:17-65
 20        </intent>
 21        <!-- If your app checks for SMS support -->
 22        <intent>
-22-->/Users/aligohar/Development/Autotel-Lite/White_Labeling/nostrum-track/android/app/src/main/AndroidManifest.xml:10:6-13:15
+22-->/Users/user/Development/Projects/Flutter_Projects/AutoTeleLite/uploadLabel/SignTrack_Lite/SignTrack/android/app/src/main/AndroidManifest.xml:10:6-13:15
 23            <action android:name="android.intent.action.VIEW" />
-23-->/Users/aligohar/Development/Autotel-Lite/White_Labeling/nostrum-track/android/app/src/main/AndroidManifest.xml:11:9-61
-23-->/Users/aligohar/Development/Autotel-Lite/White_Labeling/nostrum-track/android/app/src/main/AndroidManifest.xml:11:17-58
+23-->/Users/user/Development/Projects/Flutter_Projects/AutoTeleLite/uploadLabel/SignTrack_Lite/SignTrack/android/app/src/main/AndroidManifest.xml:11:9-61
+23-->/Users/user/Development/Projects/Flutter_Projects/AutoTeleLite/uploadLabel/SignTrack_Lite/SignTrack/android/app/src/main/AndroidManifest.xml:11:17-58
 24
 25            <data android:scheme="sms" />
-25-->/Users/aligohar/Development/Autotel-Lite/White_Labeling/nostrum-track/android/app/src/main/AndroidManifest.xml:12:9-38
-25-->/Users/aligohar/Development/Autotel-Lite/White_Labeling/nostrum-track/android/app/src/main/AndroidManifest.xml:12:15-35
+25-->/Users/user/Development/Projects/Flutter_Projects/AutoTeleLite/uploadLabel/SignTrack_Lite/SignTrack/android/app/src/main/AndroidManifest.xml:12:9-38
+25-->/Users/user/Development/Projects/Flutter_Projects/AutoTeleLite/uploadLabel/SignTrack_Lite/SignTrack/android/app/src/main/AndroidManifest.xml:12:15-35
 26        </intent>
 27        <!-- If your app checks for call support -->
 28        <intent>
-28-->/Users/aligohar/Development/Autotel-Lite/White_Labeling/nostrum-track/android/app/src/main/AndroidManifest.xml:15:6-18:15
+28-->/Users/user/Development/Projects/Flutter_Projects/AutoTeleLite/uploadLabel/SignTrack_Lite/SignTrack/android/app/src/main/AndroidManifest.xml:15:6-18:15
 29            <action android:name="android.intent.action.VIEW" />
-29-->/Users/aligohar/Development/Autotel-Lite/White_Labeling/nostrum-track/android/app/src/main/AndroidManifest.xml:11:9-61
-29-->/Users/aligohar/Development/Autotel-Lite/White_Labeling/nostrum-track/android/app/src/main/AndroidManifest.xml:11:17-58
+29-->/Users/user/Development/Projects/Flutter_Projects/AutoTeleLite/uploadLabel/SignTrack_Lite/SignTrack/android/app/src/main/AndroidManifest.xml:11:9-61
+29-->/Users/user/Development/Projects/Flutter_Projects/AutoTeleLite/uploadLabel/SignTrack_Lite/SignTrack/android/app/src/main/AndroidManifest.xml:11:17-58
 30
 31            <data android:scheme="tel" />
-31-->/Users/aligohar/Development/Autotel-Lite/White_Labeling/nostrum-track/android/app/src/main/AndroidManifest.xml:12:9-38
-31-->/Users/aligohar/Development/Autotel-Lite/White_Labeling/nostrum-track/android/app/src/main/AndroidManifest.xml:12:15-35
+31-->/Users/user/Development/Projects/Flutter_Projects/AutoTeleLite/uploadLabel/SignTrack_Lite/SignTrack/android/app/src/main/AndroidManifest.xml:12:9-38
+31-->/Users/user/Development/Projects/Flutter_Projects/AutoTeleLite/uploadLabel/SignTrack_Lite/SignTrack/android/app/src/main/AndroidManifest.xml:12:15-35
 32        </intent>
 33        <intent>
-33-->/Users/aligohar/Development/Autotel-Lite/White_Labeling/nostrum-track/android/app/src/main/AndroidManifest.xml:19:8-22:15
+33-->/Users/user/Development/Projects/Flutter_Projects/AutoTeleLite/uploadLabel/SignTrack_Lite/SignTrack/android/app/src/main/AndroidManifest.xml:19:8-22:15
 34            <action android:name="android.intent.action.VIEW" />
-34-->/Users/aligohar/Development/Autotel-Lite/White_Labeling/nostrum-track/android/app/src/main/AndroidManifest.xml:11:9-61
-34-->/Users/aligohar/Development/Autotel-Lite/White_Labeling/nostrum-track/android/app/src/main/AndroidManifest.xml:11:17-58
+34-->/Users/user/Development/Projects/Flutter_Projects/AutoTeleLite/uploadLabel/SignTrack_Lite/SignTrack/android/app/src/main/AndroidManifest.xml:11:9-61
+34-->/Users/user/Development/Projects/Flutter_Projects/AutoTeleLite/uploadLabel/SignTrack_Lite/SignTrack/android/app/src/main/AndroidManifest.xml:11:17-58
 35
 36            <data android:scheme="https" />
-36-->/Users/aligohar/Development/Autotel-Lite/White_Labeling/nostrum-track/android/app/src/main/AndroidManifest.xml:12:9-38
-36-->/Users/aligohar/Development/Autotel-Lite/White_Labeling/nostrum-track/android/app/src/main/AndroidManifest.xml:12:15-35
+36-->/Users/user/Development/Projects/Flutter_Projects/AutoTeleLite/uploadLabel/SignTrack_Lite/SignTrack/android/app/src/main/AndroidManifest.xml:12:9-38
+36-->/Users/user/Development/Projects/Flutter_Projects/AutoTeleLite/uploadLabel/SignTrack_Lite/SignTrack/android/app/src/main/AndroidManifest.xml:12:15-35
 37        </intent>
 38        <intent>
-38-->/Users/aligohar/Development/Autotel-Lite/White_Labeling/nostrum-track/android/app/src/main/AndroidManifest.xml:23:7-26:15
+38-->/Users/user/Development/Projects/Flutter_Projects/AutoTeleLite/uploadLabel/SignTrack_Lite/SignTrack/android/app/src/main/AndroidManifest.xml:23:7-26:15
 39            <action android:name="android.intent.action.VIEW" />
-39-->/Users/aligohar/Development/Autotel-Lite/White_Labeling/nostrum-track/android/app/src/main/AndroidManifest.xml:11:9-61
-39-->/Users/aligohar/Development/Autotel-Lite/White_Labeling/nostrum-track/android/app/src/main/AndroidManifest.xml:11:17-58
+39-->/Users/user/Development/Projects/Flutter_Projects/AutoTeleLite/uploadLabel/SignTrack_Lite/SignTrack/android/app/src/main/AndroidManifest.xml:11:9-61
+39-->/Users/user/Development/Projects/Flutter_Projects/AutoTeleLite/uploadLabel/SignTrack_Lite/SignTrack/android/app/src/main/AndroidManifest.xml:11:17-58
 40
 41            <data android:scheme="mailto" />
-41-->/Users/aligohar/Development/Autotel-Lite/White_Labeling/nostrum-track/android/app/src/main/AndroidManifest.xml:12:9-38
-41-->/Users/aligohar/Development/Autotel-Lite/White_Labeling/nostrum-track/android/app/src/main/AndroidManifest.xml:12:15-35
+41-->/Users/user/Development/Projects/Flutter_Projects/AutoTeleLite/uploadLabel/SignTrack_Lite/SignTrack/android/app/src/main/AndroidManifest.xml:12:9-38
+41-->/Users/user/Development/Projects/Flutter_Projects/AutoTeleLite/uploadLabel/SignTrack_Lite/SignTrack/android/app/src/main/AndroidManifest.xml:12:15-35
 42        </intent>
 43        <intent>
-43-->/Users/aligohar/Development/Autotel-Lite/White_Labeling/nostrum-track/android/app/src/main/AndroidManifest.xml:27:6-30:15
+43-->/Users/user/Development/Projects/Flutter_Projects/AutoTeleLite/uploadLabel/SignTrack_Lite/SignTrack/android/app/src/main/AndroidManifest.xml:27:6-30:15
 44            <action android:name="android.intent.action.VIEW" />
-44-->/Users/aligohar/Development/Autotel-Lite/White_Labeling/nostrum-track/android/app/src/main/AndroidManifest.xml:11:9-61
-44-->/Users/aligohar/Development/Autotel-Lite/White_Labeling/nostrum-track/android/app/src/main/AndroidManifest.xml:11:17-58
+44-->/Users/user/Development/Projects/Flutter_Projects/AutoTeleLite/uploadLabel/SignTrack_Lite/SignTrack/android/app/src/main/AndroidManifest.xml:11:9-61
+44-->/Users/user/Development/Projects/Flutter_Projects/AutoTeleLite/uploadLabel/SignTrack_Lite/SignTrack/android/app/src/main/AndroidManifest.xml:11:17-58
 45
 46            <data android:scheme="whatsapp" />
-46-->/Users/aligohar/Development/Autotel-Lite/White_Labeling/nostrum-track/android/app/src/main/AndroidManifest.xml:12:9-38
-46-->/Users/aligohar/Development/Autotel-Lite/White_Labeling/nostrum-track/android/app/src/main/AndroidManifest.xml:12:15-35
+46-->/Users/user/Development/Projects/Flutter_Projects/AutoTeleLite/uploadLabel/SignTrack_Lite/SignTrack/android/app/src/main/AndroidManifest.xml:12:9-38
+46-->/Users/user/Development/Projects/Flutter_Projects/AutoTeleLite/uploadLabel/SignTrack_Lite/SignTrack/android/app/src/main/AndroidManifest.xml:12:15-35
 47        </intent>
 48        <!-- Needs to be explicitly declared on Android R+ -->
 49        <package android:name="com.google.android.apps.maps" />
-49-->[com.google.android.gms:play-services-maps:18.1.0] /Users/aligohar/.gradle/caches/transforms-3/e0b2331bb61c92c100bbb1be09504fde/transformed/jetified-play-services-maps-18.1.0/AndroidManifest.xml:33:9-64
-49-->[com.google.android.gms:play-services-maps:18.1.0] /Users/aligohar/.gradle/caches/transforms-3/e0b2331bb61c92c100bbb1be09504fde/transformed/jetified-play-services-maps-18.1.0/AndroidManifest.xml:33:18-61
+49-->[com.google.android.gms:play-services-maps:18.2.0] /Users/user/.gradle/caches/transforms-3/6f9936a5193172f1161ad72357d1a619/transformed/jetified-play-services-maps-18.2.0/AndroidManifest.xml:33:9-64
+49-->[com.google.android.gms:play-services-maps:18.2.0] /Users/user/.gradle/caches/transforms-3/6f9936a5193172f1161ad72357d1a619/transformed/jetified-play-services-maps-18.2.0/AndroidManifest.xml:33:18-61
 50    </queries>
 51
 52    <uses-permission android:name="android.permission.WAKE_LOCK" />
-52-->[:firebase_messaging] /Users/aligohar/Development/Autotel-Lite/White_Labeling/nostrum-track/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-68
-52-->[:firebase_messaging] /Users/aligohar/Development/Autotel-Lite/White_Labeling/nostrum-track/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:10:22-65
+52-->[:firebase_messaging] /Users/user/Development/Projects/Flutter_Projects/AutoTeleLite/uploadLabel/SignTrack_Lite/SignTrack/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-68
+52-->[:firebase_messaging] /Users/user/Development/Projects/Flutter_Projects/AutoTeleLite/uploadLabel/SignTrack_Lite/SignTrack/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:10:22-65
 53    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" /> <!-- Permissions options for the `notification` group -->
-53-->[:firebase_messaging] /Users/aligohar/Development/Autotel-Lite/White_Labeling/nostrum-track/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:11:5-79
-53-->[:firebase_messaging] /Users/aligohar/Development/Autotel-Lite/White_Labeling/nostrum-track/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:11:22-76
+53-->[:firebase_messaging] /Users/user/Development/Projects/Flutter_Projects/AutoTeleLite/uploadLabel/SignTrack_Lite/SignTrack/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:11:5-79
+53-->[:firebase_messaging] /Users/user/Development/Projects/Flutter_Projects/AutoTeleLite/uploadLabel/SignTrack_Lite/SignTrack/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:11:22-76
 54    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
-54-->[:firebase_messaging] /Users/aligohar/Development/Autotel-Lite/White_Labeling/nostrum-track/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:13:5-77
-54-->[:firebase_messaging] /Users/aligohar/Development/Autotel-Lite/White_Labeling/nostrum-track/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:13:22-74
+54-->[:firebase_messaging] /Users/user/Development/Projects/Flutter_Projects/AutoTeleLite/uploadLabel/SignTrack_Lite/SignTrack/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:13:5-77
+54-->[:firebase_messaging] /Users/user/Development/Projects/Flutter_Projects/AutoTeleLite/uploadLabel/SignTrack_Lite/SignTrack/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:13:22-74
 55    <uses-permission android:name="android.permission.VIBRATE" /> <!-- Required by older versions of Google Play services to create IID tokens -->
-55-->[:flutter_local_notifications] /Users/aligohar/Development/Autotel-Lite/White_Labeling/nostrum-track/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-66
-55-->[:flutter_local_notifications] /Users/aligohar/Development/Autotel-Lite/White_Labeling/nostrum-track/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:9:22-63
+55-->[:flutter_local_notifications] /Users/user/Development/Projects/Flutter_Projects/AutoTeleLite/uploadLabel/SignTrack_Lite/SignTrack/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-66
+55-->[:flutter_local_notifications] /Users/user/Development/Projects/Flutter_Projects/AutoTeleLite/uploadLabel/SignTrack_Lite/SignTrack/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:9:22-63
 56    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
-56-->[com.google.firebase:firebase-iid:21.1.0] /Users/aligohar/.gradle/caches/transforms-3/39d9b5c48419e0c94f5aa1b980350a6f/transformed/jetified-firebase-iid-21.1.0/AndroidManifest.xml:26:5-82
-56-->[com.google.firebase:firebase-iid:21.1.0] /Users/aligohar/.gradle/caches/transforms-3/39d9b5c48419e0c94f5aa1b980350a6f/transformed/jetified-firebase-iid-21.1.0/AndroidManifest.xml:26:22-79
+56-->[com.google.firebase:firebase-iid:21.1.0] /Users/user/.gradle/caches/transforms-3/241a6ab5025efcf87182eb800142cc8d/transformed/jetified-firebase-iid-21.1.0/AndroidManifest.xml:26:5-82
+56-->[com.google.firebase:firebase-iid:21.1.0] /Users/user/.gradle/caches/transforms-3/241a6ab5025efcf87182eb800142cc8d/transformed/jetified-firebase-iid-21.1.0/AndroidManifest.xml:26:22-79
 57
 58    <uses-feature
-58-->[com.google.android.gms:play-services-maps:18.1.0] /Users/aligohar/.gradle/caches/transforms-3/e0b2331bb61c92c100bbb1be09504fde/transformed/jetified-play-services-maps-18.1.0/AndroidManifest.xml:26:5-28:35
+58-->[com.google.android.gms:play-services-maps:18.2.0] /Users/user/.gradle/caches/transforms-3/6f9936a5193172f1161ad72357d1a619/transformed/jetified-play-services-maps-18.2.0/AndroidManifest.xml:26:5-28:35
 59        android:glEsVersion="0x00020000"
-59-->[com.google.android.gms:play-services-maps:18.1.0] /Users/aligohar/.gradle/caches/transforms-3/e0b2331bb61c92c100bbb1be09504fde/transformed/jetified-play-services-maps-18.1.0/AndroidManifest.xml:27:9-41
+59-->[com.google.android.gms:play-services-maps:18.2.0] /Users/user/.gradle/caches/transforms-3/6f9936a5193172f1161ad72357d1a619/transformed/jetified-play-services-maps-18.2.0/AndroidManifest.xml:27:9-41
 60        android:required="true" />
-60-->[com.google.android.gms:play-services-maps:18.1.0] /Users/aligohar/.gradle/caches/transforms-3/e0b2331bb61c92c100bbb1be09504fde/transformed/jetified-play-services-maps-18.1.0/AndroidManifest.xml:28:9-32
+60-->[com.google.android.gms:play-services-maps:18.2.0] /Users/user/.gradle/caches/transforms-3/6f9936a5193172f1161ad72357d1a619/transformed/jetified-play-services-maps-18.2.0/AndroidManifest.xml:28:9-32
 61
 62    <permission
-62-->[androidx.core:core:1.10.1] /Users/aligohar/.gradle/caches/transforms-3/e73600b7204754fa6eaab4c4f4dd2179/transformed/core-1.10.1/AndroidManifest.xml:22:5-24:47
-63        android:name="com.nostrumlite.android.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
-63-->[androidx.core:core:1.10.1] /Users/aligohar/.gradle/caches/transforms-3/e73600b7204754fa6eaab4c4f4dd2179/transformed/core-1.10.1/AndroidManifest.xml:23:9-81
+62-->[androidx.core:core:1.10.1] /Users/user/.gradle/caches/transforms-3/7fcaf05ac8f2fb224caef7ff13c7f1a5/transformed/core-1.10.1/AndroidManifest.xml:22:5-24:47
+63        android:name="com.signTrack.android.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+63-->[androidx.core:core:1.10.1] /Users/user/.gradle/caches/transforms-3/7fcaf05ac8f2fb224caef7ff13c7f1a5/transformed/core-1.10.1/AndroidManifest.xml:23:9-81
 64        android:protectionLevel="signature" />
-64-->[androidx.core:core:1.10.1] /Users/aligohar/.gradle/caches/transforms-3/e73600b7204754fa6eaab4c4f4dd2179/transformed/core-1.10.1/AndroidManifest.xml:24:9-44
+64-->[androidx.core:core:1.10.1] /Users/user/.gradle/caches/transforms-3/7fcaf05ac8f2fb224caef7ff13c7f1a5/transformed/core-1.10.1/AndroidManifest.xml:24:9-44
 65
-66    <uses-permission android:name="com.nostrumlite.android.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
-66-->[androidx.core:core:1.10.1] /Users/aligohar/.gradle/caches/transforms-3/e73600b7204754fa6eaab4c4f4dd2179/transformed/core-1.10.1/AndroidManifest.xml:26:5-97
-66-->[androidx.core:core:1.10.1] /Users/aligohar/.gradle/caches/transforms-3/e73600b7204754fa6eaab4c4f4dd2179/transformed/core-1.10.1/AndroidManifest.xml:26:22-94
+66    <uses-permission android:name="com.signTrack.android.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+66-->[androidx.core:core:1.10.1] /Users/user/.gradle/caches/transforms-3/7fcaf05ac8f2fb224caef7ff13c7f1a5/transformed/core-1.10.1/AndroidManifest.xml:26:5-97
+66-->[androidx.core:core:1.10.1] /Users/user/.gradle/caches/transforms-3/7fcaf05ac8f2fb224caef7ff13c7f1a5/transformed/core-1.10.1/AndroidManifest.xml:26:22-94
 67
 68    <application
 69        android:name="android.app.Application"
 70        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-70-->[androidx.core:core:1.10.1] /Users/aligohar/.gradle/caches/transforms-3/e73600b7204754fa6eaab4c4f4dd2179/transformed/core-1.10.1/AndroidManifest.xml:28:18-86
+70-->[androidx.core:core:1.10.1] /Users/user/.gradle/caches/transforms-3/7fcaf05ac8f2fb224caef7ff13c7f1a5/transformed/core-1.10.1/AndroidManifest.xml:28:18-86
 71        android:debuggable="true"
 72        android:icon="@mipmap/launcher_icon"
-73        android:label="Nostrum track"
+73        android:label="Sign Track"
 74        android:usesCleartextTraffic="true" >
 75        <meta-data
 76            android:name="com.google.android.geo.API_KEY"
 77            android:value="AIzaSyAGRntaClccj2f-In9knfyGw_zYF7lx1Mk" />
 78
 79        <activity
-80            android:name="com.nostrumlite.android.MainActivity"
+80            android:name="com.signTrack.android.MainActivity"
 81            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
 82            android:exported="true"
 83            android:hardwareAccelerated="true"
@@ -148,7 +148,7 @@
 96                android:resource="@style/NormalTheme" />
 97            <meta-data
 98                android:name="com.google.firebase.messaging.default_notification_channel_id"
-99                android:value="com.nostrumlite.android" />
+99                android:value="com.signTrack.android" />
 100
 101            <intent-filter>
 102                <action android:name="android.intent.action.MAIN" />
@@ -165,259 +165,290 @@
 113            android:value="2" />
 114
 115        <service
-115-->[:firebase_messaging] /Users/aligohar/Development/Autotel-Lite/White_Labeling/nostrum-track/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:16:9-19:72
+115-->[:firebase_messaging] /Users/user/Development/Projects/Flutter_Projects/AutoTeleLite/uploadLabel/SignTrack_Lite/SignTrack/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:16:9-19:72
 116            android:name="io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingBackgroundService"
-116-->[:firebase_messaging] /Users/aligohar/Development/Autotel-Lite/White_Labeling/nostrum-track/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:17:13-107
+116-->[:firebase_messaging] /Users/user/Development/Projects/Flutter_Projects/AutoTeleLite/uploadLabel/SignTrack_Lite/SignTrack/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:17:13-107
 117            android:exported="false"
-117-->[:firebase_messaging] /Users/aligohar/Development/Autotel-Lite/White_Labeling/nostrum-track/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:18:13-37
+117-->[:firebase_messaging] /Users/user/Development/Projects/Flutter_Projects/AutoTeleLite/uploadLabel/SignTrack_Lite/SignTrack/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:18:13-37
 118            android:permission="android.permission.BIND_JOB_SERVICE" />
-118-->[:firebase_messaging] /Users/aligohar/Development/Autotel-Lite/White_Labeling/nostrum-track/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:19:13-69
+118-->[:firebase_messaging] /Users/user/Development/Projects/Flutter_Projects/AutoTeleLite/uploadLabel/SignTrack_Lite/SignTrack/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:19:13-69
 119        <service
-119-->[:firebase_messaging] /Users/aligohar/Development/Autotel-Lite/White_Labeling/nostrum-track/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:20:9-26:19
+119-->[:firebase_messaging] /Users/user/Development/Projects/Flutter_Projects/AutoTeleLite/uploadLabel/SignTrack_Lite/SignTrack/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:20:9-26:19
 120            android:name="io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingService"
-120-->[:firebase_messaging] /Users/aligohar/Development/Autotel-Lite/White_Labeling/nostrum-track/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:21:13-97
+120-->[:firebase_messaging] /Users/user/Development/Projects/Flutter_Projects/AutoTeleLite/uploadLabel/SignTrack_Lite/SignTrack/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:21:13-97
 121            android:exported="false" >
-121-->[:firebase_messaging] /Users/aligohar/Development/Autotel-Lite/White_Labeling/nostrum-track/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:22:13-37
+121-->[:firebase_messaging] /Users/user/Development/Projects/Flutter_Projects/AutoTeleLite/uploadLabel/SignTrack_Lite/SignTrack/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:22:13-37
 122            <intent-filter>
-122-->[:firebase_messaging] /Users/aligohar/Development/Autotel-Lite/White_Labeling/nostrum-track/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:23:13-25:29
+122-->[:firebase_messaging] /Users/user/Development/Projects/Flutter_Projects/AutoTeleLite/uploadLabel/SignTrack_Lite/SignTrack/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:23:13-25:29
 123                <action android:name="com.google.firebase.MESSAGING_EVENT" />
-123-->[:firebase_messaging] /Users/aligohar/Development/Autotel-Lite/White_Labeling/nostrum-track/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:24:17-78
-123-->[:firebase_messaging] /Users/aligohar/Development/Autotel-Lite/White_Labeling/nostrum-track/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:24:25-75
+123-->[:firebase_messaging] /Users/user/Development/Projects/Flutter_Projects/AutoTeleLite/uploadLabel/SignTrack_Lite/SignTrack/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:24:17-78
+123-->[:firebase_messaging] /Users/user/Development/Projects/Flutter_Projects/AutoTeleLite/uploadLabel/SignTrack_Lite/SignTrack/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:24:25-75
 124            </intent-filter>
 125        </service>
 126
 127        <receiver
-127-->[:firebase_messaging] /Users/aligohar/Development/Autotel-Lite/White_Labeling/nostrum-track/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:28:9-35:20
+127-->[:firebase_messaging] /Users/user/Development/Projects/Flutter_Projects/AutoTeleLite/uploadLabel/SignTrack_Lite/SignTrack/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:28:9-35:20
 128            android:name="io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingReceiver"
-128-->[:firebase_messaging] /Users/aligohar/Development/Autotel-Lite/White_Labeling/nostrum-track/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:29:13-98
+128-->[:firebase_messaging] /Users/user/Development/Projects/Flutter_Projects/AutoTeleLite/uploadLabel/SignTrack_Lite/SignTrack/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:29:13-98
 129            android:exported="true"
-129-->[:firebase_messaging] /Users/aligohar/Development/Autotel-Lite/White_Labeling/nostrum-track/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:30:13-36
+129-->[:firebase_messaging] /Users/user/Development/Projects/Flutter_Projects/AutoTeleLite/uploadLabel/SignTrack_Lite/SignTrack/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:30:13-36
 130            android:permission="com.google.android.c2dm.permission.SEND" >
-130-->[:firebase_messaging] /Users/aligohar/Development/Autotel-Lite/White_Labeling/nostrum-track/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:31:13-73
+130-->[:firebase_messaging] /Users/user/Development/Projects/Flutter_Projects/AutoTeleLite/uploadLabel/SignTrack_Lite/SignTrack/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:31:13-73
 131            <intent-filter>
-131-->[:firebase_messaging] /Users/aligohar/Development/Autotel-Lite/White_Labeling/nostrum-track/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:32:13-34:29
+131-->[:firebase_messaging] /Users/user/Development/Projects/Flutter_Projects/AutoTeleLite/uploadLabel/SignTrack_Lite/SignTrack/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:32:13-34:29
 132                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
-132-->[:firebase_messaging] /Users/aligohar/Development/Autotel-Lite/White_Labeling/nostrum-track/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:33:17-81
-132-->[:firebase_messaging] /Users/aligohar/Development/Autotel-Lite/White_Labeling/nostrum-track/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:33:25-78
+132-->[:firebase_messaging] /Users/user/Development/Projects/Flutter_Projects/AutoTeleLite/uploadLabel/SignTrack_Lite/SignTrack/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:33:17-81
+132-->[:firebase_messaging] /Users/user/Development/Projects/Flutter_Projects/AutoTeleLite/uploadLabel/SignTrack_Lite/SignTrack/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:33:25-78
 133            </intent-filter>
 134        </receiver>
 135
 136        <service
-136-->[:firebase_messaging] /Users/aligohar/Development/Autotel-Lite/White_Labeling/nostrum-track/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:37:9-41:19
+136-->[:firebase_messaging] /Users/user/Development/Projects/Flutter_Projects/AutoTeleLite/uploadLabel/SignTrack_Lite/SignTrack/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:37:9-41:19
 137            android:name="com.google.firebase.components.ComponentDiscoveryService"
-137-->[:firebase_messaging] /Users/aligohar/Development/Autotel-Lite/White_Labeling/nostrum-track/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:37:18-89
+137-->[:firebase_messaging] /Users/user/Development/Projects/Flutter_Projects/AutoTeleLite/uploadLabel/SignTrack_Lite/SignTrack/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:37:18-89
 138            android:directBootAware="true"
-138-->[com.google.firebase:firebase-common:20.3.3] /Users/aligohar/.gradle/caches/transforms-3/59e1e372748fafe695505fff588c45a6/transformed/jetified-firebase-common-20.3.3/AndroidManifest.xml:34:13-43
+138-->[com.google.firebase:firebase-common:20.4.2] /Users/user/.gradle/caches/transforms-3/911fca1d2255459eafdfd4613b3ed166/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:32:13-43
 139            android:exported="false" >
-139-->[com.google.firebase:firebase-iid:21.1.0] /Users/aligohar/.gradle/caches/transforms-3/39d9b5c48419e0c94f5aa1b980350a6f/transformed/jetified-firebase-iid-21.1.0/AndroidManifest.xml:31:13-37
+139-->[com.google.firebase:firebase-iid:21.1.0] /Users/user/.gradle/caches/transforms-3/241a6ab5025efcf87182eb800142cc8d/transformed/jetified-firebase-iid-21.1.0/AndroidManifest.xml:31:13-37
 140            <meta-data
-140-->[:firebase_messaging] /Users/aligohar/Development/Autotel-Lite/White_Labeling/nostrum-track/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:38:13-40:85
+140-->[:firebase_messaging] /Users/user/Development/Projects/Flutter_Projects/AutoTeleLite/uploadLabel/SignTrack_Lite/SignTrack/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:38:13-40:85
 141                android:name="com.google.firebase.components:io.flutter.plugins.firebase.messaging.FlutterFirebaseAppRegistrar"
-141-->[:firebase_messaging] /Users/aligohar/Development/Autotel-Lite/White_Labeling/nostrum-track/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:39:17-128
+141-->[:firebase_messaging] /Users/user/Development/Projects/Flutter_Projects/AutoTeleLite/uploadLabel/SignTrack_Lite/SignTrack/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:39:17-128
 142                android:value="com.google.firebase.components.ComponentRegistrar" />
-142-->[:firebase_messaging] /Users/aligohar/Development/Autotel-Lite/White_Labeling/nostrum-track/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:40:17-82
+142-->[:firebase_messaging] /Users/user/Development/Projects/Flutter_Projects/AutoTeleLite/uploadLabel/SignTrack_Lite/SignTrack/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:40:17-82
 143            <meta-data
-143-->[:firebase_core] /Users/aligohar/Development/Autotel-Lite/White_Labeling/nostrum-track/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-13:85
+143-->[:firebase_core] /Users/user/Development/Projects/Flutter_Projects/AutoTeleLite/uploadLabel/SignTrack_Lite/SignTrack/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-13:85
 144                android:name="com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar"
-144-->[:firebase_core] /Users/aligohar/Development/Autotel-Lite/White_Labeling/nostrum-track/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:12:17-124
+144-->[:firebase_core] /Users/user/Development/Projects/Flutter_Projects/AutoTeleLite/uploadLabel/SignTrack_Lite/SignTrack/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:12:17-124
 145                android:value="com.google.firebase.components.ComponentRegistrar" />
-145-->[:firebase_core] /Users/aligohar/Development/Autotel-Lite/White_Labeling/nostrum-track/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:13:17-82
+145-->[:firebase_core] /Users/user/Development/Projects/Flutter_Projects/AutoTeleLite/uploadLabel/SignTrack_Lite/SignTrack/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:13:17-82
 146            <meta-data
-146-->[com.google.firebase:firebase-iid:21.1.0] /Users/aligohar/.gradle/caches/transforms-3/39d9b5c48419e0c94f5aa1b980350a6f/transformed/jetified-firebase-iid-21.1.0/AndroidManifest.xml:32:13-34:85
+146-->[com.google.firebase:firebase-iid:21.1.0] /Users/user/.gradle/caches/transforms-3/241a6ab5025efcf87182eb800142cc8d/transformed/jetified-firebase-iid-21.1.0/AndroidManifest.xml:32:13-34:85
 147                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
-147-->[com.google.firebase:firebase-iid:21.1.0] /Users/aligohar/.gradle/caches/transforms-3/39d9b5c48419e0c94f5aa1b980350a6f/transformed/jetified-firebase-iid-21.1.0/AndroidManifest.xml:33:17-96
+147-->[com.google.firebase:firebase-iid:21.1.0] /Users/user/.gradle/caches/transforms-3/241a6ab5025efcf87182eb800142cc8d/transformed/jetified-firebase-iid-21.1.0/AndroidManifest.xml:33:17-96
 148                android:value="com.google.firebase.components.ComponentRegistrar" />
-148-->[com.google.firebase:firebase-iid:21.1.0] /Users/aligohar/.gradle/caches/transforms-3/39d9b5c48419e0c94f5aa1b980350a6f/transformed/jetified-firebase-iid-21.1.0/AndroidManifest.xml:34:17-82
+148-->[com.google.firebase:firebase-iid:21.1.0] /Users/user/.gradle/caches/transforms-3/241a6ab5025efcf87182eb800142cc8d/transformed/jetified-firebase-iid-21.1.0/AndroidManifest.xml:34:17-82
 149            <meta-data
-149-->[com.google.firebase:firebase-messaging:23.2.1] /Users/aligohar/.gradle/caches/transforms-3/f869ab0d4ae0fbf8a5351405fcfa633e/transformed/jetified-firebase-messaging-23.2.1/AndroidManifest.xml:53:13-55:85
-150                android:name="com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar"
-150-->[com.google.firebase:firebase-messaging:23.2.1] /Users/aligohar/.gradle/caches/transforms-3/f869ab0d4ae0fbf8a5351405fcfa633e/transformed/jetified-firebase-messaging-23.2.1/AndroidManifest.xml:54:17-119
+149-->[com.google.firebase:firebase-messaging:23.3.1] /Users/user/.gradle/caches/transforms-3/d9f2c88f87a752d664add134c975f5ec/transformed/jetified-firebase-messaging-23.3.1/AndroidManifest.xml:57:13-59:85
+150                android:name="com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingKtxRegistrar"
+150-->[com.google.firebase:firebase-messaging:23.3.1] /Users/user/.gradle/caches/transforms-3/d9f2c88f87a752d664add134c975f5ec/transformed/jetified-firebase-messaging-23.3.1/AndroidManifest.xml:58:17-122
 151                android:value="com.google.firebase.components.ComponentRegistrar" />
-151-->[com.google.firebase:firebase-messaging:23.2.1] /Users/aligohar/.gradle/caches/transforms-3/f869ab0d4ae0fbf8a5351405fcfa633e/transformed/jetified-firebase-messaging-23.2.1/AndroidManifest.xml:55:17-82
+151-->[com.google.firebase:firebase-messaging:23.3.1] /Users/user/.gradle/caches/transforms-3/d9f2c88f87a752d664add134c975f5ec/transformed/jetified-firebase-messaging-23.3.1/AndroidManifest.xml:59:17-82
 152            <meta-data
-152-->[com.google.firebase:firebase-installations:17.1.4] /Users/aligohar/.gradle/caches/transforms-3/ba6aab4b287f8020360df35c59b7ee3e/transformed/jetified-firebase-installations-17.1.4/AndroidManifest.xml:15:13-17:85
-153                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
-153-->[com.google.firebase:firebase-installations:17.1.4] /Users/aligohar/.gradle/caches/transforms-3/ba6aab4b287f8020360df35c59b7ee3e/transformed/jetified-firebase-installations-17.1.4/AndroidManifest.xml:16:17-127
+152-->[com.google.firebase:firebase-messaging:23.3.1] /Users/user/.gradle/caches/transforms-3/d9f2c88f87a752d664add134c975f5ec/transformed/jetified-firebase-messaging-23.3.1/AndroidManifest.xml:60:13-62:85
+153                android:name="com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar"
+153-->[com.google.firebase:firebase-messaging:23.3.1] /Users/user/.gradle/caches/transforms-3/d9f2c88f87a752d664add134c975f5ec/transformed/jetified-firebase-messaging-23.3.1/AndroidManifest.xml:61:17-119
 154                android:value="com.google.firebase.components.ComponentRegistrar" />
-154-->[com.google.firebase:firebase-installations:17.1.4] /Users/aligohar/.gradle/caches/transforms-3/ba6aab4b287f8020360df35c59b7ee3e/transformed/jetified-firebase-installations-17.1.4/AndroidManifest.xml:17:17-82
+154-->[com.google.firebase:firebase-messaging:23.3.1] /Users/user/.gradle/caches/transforms-3/d9f2c88f87a752d664add134c975f5ec/transformed/jetified-firebase-messaging-23.3.1/AndroidManifest.xml:62:17-82
 155            <meta-data
-155-->[com.google.firebase:firebase-datatransport:18.1.7] /Users/aligohar/.gradle/caches/transforms-3/41dfe98397e4b9f5ee875d10e366947c/transformed/jetified-firebase-datatransport-18.1.7/AndroidManifest.xml:27:13-29:85
-156                android:name="com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar"
-156-->[com.google.firebase:firebase-datatransport:18.1.7] /Users/aligohar/.gradle/caches/transforms-3/41dfe98397e4b9f5ee875d10e366947c/transformed/jetified-firebase-datatransport-18.1.7/AndroidManifest.xml:28:17-115
+155-->[com.google.firebase:firebase-installations:17.2.0] /Users/user/.gradle/caches/transforms-3/f26765936e4064faf108de3e57929854/transformed/jetified-firebase-installations-17.2.0/AndroidManifest.xml:15:13-17:85
+156                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsKtxRegistrar"
+156-->[com.google.firebase:firebase-installations:17.2.0] /Users/user/.gradle/caches/transforms-3/f26765936e4064faf108de3e57929854/transformed/jetified-firebase-installations-17.2.0/AndroidManifest.xml:16:17-130
 157                android:value="com.google.firebase.components.ComponentRegistrar" />
-157-->[com.google.firebase:firebase-datatransport:18.1.7] /Users/aligohar/.gradle/caches/transforms-3/41dfe98397e4b9f5ee875d10e366947c/transformed/jetified-firebase-datatransport-18.1.7/AndroidManifest.xml:29:17-82
-158        </service>
-159
-160        <provider
-160-->[:firebase_messaging] /Users/aligohar/Development/Autotel-Lite/White_Labeling/nostrum-track/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:43:9-47:38
-161            android:name="io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingInitProvider"
-161-->[:firebase_messaging] /Users/aligohar/Development/Autotel-Lite/White_Labeling/nostrum-track/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:44:13-102
-162            android:authorities="com.nostrumlite.android.flutterfirebasemessaginginitprovider"
-162-->[:firebase_messaging] /Users/aligohar/Development/Autotel-Lite/White_Labeling/nostrum-track/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:45:13-88
-163            android:exported="false"
-163-->[:firebase_messaging] /Users/aligohar/Development/Autotel-Lite/White_Labeling/nostrum-track/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:46:13-37
-164            android:initOrder="99" />
-164-->[:firebase_messaging] /Users/aligohar/Development/Autotel-Lite/White_Labeling/nostrum-track/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:47:13-35
-165
-166        <activity
-166-->[:url_launcher_android] /Users/aligohar/Development/Autotel-Lite/White_Labeling/nostrum-track/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-13:74
-167            android:name="io.flutter.plugins.urllauncher.WebViewActivity"
-167-->[:url_launcher_android] /Users/aligohar/Development/Autotel-Lite/White_Labeling/nostrum-track/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-74
-168            android:exported="false"
-168-->[:url_launcher_android] /Users/aligohar/Development/Autotel-Lite/White_Labeling/nostrum-track/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-37
-169            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
-169-->[:url_launcher_android] /Users/aligohar/Development/Autotel-Lite/White_Labeling/nostrum-track/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-71
-170        <!--
-171           Declares a provider which allows us to store files to share in
-172           '.../caches/share_plus' and grant the receiving action access
-173        -->
-174        <provider
-174-->[:share_plus] /Users/aligohar/Development/Autotel-Lite/White_Labeling/nostrum-track/build/share_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:15:9-23:20
-175            android:name="dev.fluttercommunity.plus.share.ShareFileProvider"
-175-->[:share_plus] /Users/aligohar/Development/Autotel-Lite/White_Labeling/nostrum-track/build/share_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:16:13-77
-176            android:authorities="com.nostrumlite.android.flutter.share_provider"
-176-->[:share_plus] /Users/aligohar/Development/Autotel-Lite/White_Labeling/nostrum-track/build/share_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:17:13-74
-177            android:exported="false"
-177-->[:share_plus] /Users/aligohar/Development/Autotel-Lite/White_Labeling/nostrum-track/build/share_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:18:13-37
-178            android:grantUriPermissions="true" >
-178-->[:share_plus] /Users/aligohar/Development/Autotel-Lite/White_Labeling/nostrum-track/build/share_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:19:13-47
-179            <meta-data
-179-->[:share_plus] /Users/aligohar/Development/Autotel-Lite/White_Labeling/nostrum-track/build/share_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:20:13-22:68
-180                android:name="android.support.FILE_PROVIDER_PATHS"
-180-->[:share_plus] /Users/aligohar/Development/Autotel-Lite/White_Labeling/nostrum-track/build/share_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:21:17-67
-181                android:resource="@xml/flutter_share_file_paths" />
-181-->[:share_plus] /Users/aligohar/Development/Autotel-Lite/White_Labeling/nostrum-track/build/share_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:22:17-65
-182        </provider>
-183        <!--
-184           This manifest declared broadcast receiver allows us to use an explicit
-185           Intent when creating a PendingItent to be informed of the user's choice
-186        -->
-187        <receiver
-187-->[:share_plus] /Users/aligohar/Development/Autotel-Lite/White_Labeling/nostrum-track/build/share_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:28:9-34:20
-188            android:name="dev.fluttercommunity.plus.share.SharePlusPendingIntent"
-188-->[:share_plus] /Users/aligohar/Development/Autotel-Lite/White_Labeling/nostrum-track/build/share_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:29:13-82
-189            android:exported="false" >
-189-->[:share_plus] /Users/aligohar/Development/Autotel-Lite/White_Labeling/nostrum-track/build/share_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:30:13-37
-190            <intent-filter>
-190-->[:share_plus] /Users/aligohar/Development/Autotel-Lite/White_Labeling/nostrum-track/build/share_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:31:13-33:29
-191                <action android:name="EXTRA_CHOSEN_COMPONENT" />
-191-->[:share_plus] /Users/aligohar/Development/Autotel-Lite/White_Labeling/nostrum-track/build/share_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:32:17-65
-191-->[:share_plus] /Users/aligohar/Development/Autotel-Lite/White_Labeling/nostrum-track/build/share_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:32:25-62
-192            </intent-filter>
-193        </receiver>
-194
-195        <uses-library
-195-->[androidx.window:window:1.0.0] /Users/aligohar/.gradle/caches/transforms-3/cb96762224929cd6e93debdfce8f728c/transformed/jetified-window-1.0.0/AndroidManifest.xml:25:9-27:40
-196            android:name="androidx.window.extensions"
-196-->[androidx.window:window:1.0.0] /Users/aligohar/.gradle/caches/transforms-3/cb96762224929cd6e93debdfce8f728c/transformed/jetified-window-1.0.0/AndroidManifest.xml:26:13-54
-197            android:required="false" />
-197-->[androidx.window:window:1.0.0] /Users/aligohar/.gradle/caches/transforms-3/cb96762224929cd6e93debdfce8f728c/transformed/jetified-window-1.0.0/AndroidManifest.xml:27:13-37
-198        <uses-library
-198-->[androidx.window:window:1.0.0] /Users/aligohar/.gradle/caches/transforms-3/cb96762224929cd6e93debdfce8f728c/transformed/jetified-window-1.0.0/AndroidManifest.xml:28:9-30:40
-199            android:name="androidx.window.sidecar"
-199-->[androidx.window:window:1.0.0] /Users/aligohar/.gradle/caches/transforms-3/cb96762224929cd6e93debdfce8f728c/transformed/jetified-window-1.0.0/AndroidManifest.xml:29:13-51
-200            android:required="false" />
-200-->[androidx.window:window:1.0.0] /Users/aligohar/.gradle/caches/transforms-3/cb96762224929cd6e93debdfce8f728c/transformed/jetified-window-1.0.0/AndroidManifest.xml:30:13-37
-201
-202        <receiver
-202-->[com.google.firebase:firebase-messaging:23.2.1] /Users/aligohar/.gradle/caches/transforms-3/f869ab0d4ae0fbf8a5351405fcfa633e/transformed/jetified-firebase-messaging-23.2.1/AndroidManifest.xml:29:9-36:20
-203            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
-203-->[com.google.firebase:firebase-messaging:23.2.1] /Users/aligohar/.gradle/caches/transforms-3/f869ab0d4ae0fbf8a5351405fcfa633e/transformed/jetified-firebase-messaging-23.2.1/AndroidManifest.xml:30:13-78
-204            android:exported="true"
-204-->[com.google.firebase:firebase-messaging:23.2.1] /Users/aligohar/.gradle/caches/transforms-3/f869ab0d4ae0fbf8a5351405fcfa633e/transformed/jetified-firebase-messaging-23.2.1/AndroidManifest.xml:31:13-36
-205            android:permission="com.google.android.c2dm.permission.SEND" >
-205-->[com.google.firebase:firebase-messaging:23.2.1] /Users/aligohar/.gradle/caches/transforms-3/f869ab0d4ae0fbf8a5351405fcfa633e/transformed/jetified-firebase-messaging-23.2.1/AndroidManifest.xml:32:13-73
-206            <intent-filter>
-206-->[:firebase_messaging] /Users/aligohar/Development/Autotel-Lite/White_Labeling/nostrum-track/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:32:13-34:29
-207                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
-207-->[:firebase_messaging] /Users/aligohar/Development/Autotel-Lite/White_Labeling/nostrum-track/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:33:17-81
-207-->[:firebase_messaging] /Users/aligohar/Development/Autotel-Lite/White_Labeling/nostrum-track/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:33:25-78
-208            </intent-filter>
-209        </receiver>
-210        <!--
-211             FirebaseMessagingService performs security checks at runtime,
-212             but set to not exported to explicitly avoid allowing another app to call it.
-213        -->
-214        <service
-214-->[com.google.firebase:firebase-messaging:23.2.1] /Users/aligohar/.gradle/caches/transforms-3/f869ab0d4ae0fbf8a5351405fcfa633e/transformed/jetified-firebase-messaging-23.2.1/AndroidManifest.xml:42:9-49:19
-215            android:name="com.google.firebase.messaging.FirebaseMessagingService"
-215-->[com.google.firebase:firebase-messaging:23.2.1] /Users/aligohar/.gradle/caches/transforms-3/f869ab0d4ae0fbf8a5351405fcfa633e/transformed/jetified-firebase-messaging-23.2.1/AndroidManifest.xml:43:13-82
-216            android:directBootAware="true"
-216-->[com.google.firebase:firebase-messaging:23.2.1] /Users/aligohar/.gradle/caches/transforms-3/f869ab0d4ae0fbf8a5351405fcfa633e/transformed/jetified-firebase-messaging-23.2.1/AndroidManifest.xml:44:13-43
-217            android:exported="false" >
-217-->[com.google.firebase:firebase-messaging:23.2.1] /Users/aligohar/.gradle/caches/transforms-3/f869ab0d4ae0fbf8a5351405fcfa633e/transformed/jetified-firebase-messaging-23.2.1/AndroidManifest.xml:45:13-37
-218            <intent-filter android:priority="-500" >
-218-->[:firebase_messaging] /Users/aligohar/Development/Autotel-Lite/White_Labeling/nostrum-track/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:23:13-25:29
-219                <action android:name="com.google.firebase.MESSAGING_EVENT" />
-219-->[:firebase_messaging] /Users/aligohar/Development/Autotel-Lite/White_Labeling/nostrum-track/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:24:17-78
-219-->[:firebase_messaging] /Users/aligohar/Development/Autotel-Lite/White_Labeling/nostrum-track/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:24:25-75
-220            </intent-filter>
-221        </service>
-222
-223        <provider
-223-->[com.google.firebase:firebase-common:20.3.3] /Users/aligohar/.gradle/caches/transforms-3/59e1e372748fafe695505fff588c45a6/transformed/jetified-firebase-common-20.3.3/AndroidManifest.xml:25:9-30:39
-224            android:name="com.google.firebase.provider.FirebaseInitProvider"
-224-->[com.google.firebase:firebase-common:20.3.3] /Users/aligohar/.gradle/caches/transforms-3/59e1e372748fafe695505fff588c45a6/transformed/jetified-firebase-common-20.3.3/AndroidManifest.xml:26:13-77
-225            android:authorities="com.nostrumlite.android.firebaseinitprovider"
-225-->[com.google.firebase:firebase-common:20.3.3] /Users/aligohar/.gradle/caches/transforms-3/59e1e372748fafe695505fff588c45a6/transformed/jetified-firebase-common-20.3.3/AndroidManifest.xml:27:13-72
-226            android:directBootAware="true"
-226-->[com.google.firebase:firebase-common:20.3.3] /Users/aligohar/.gradle/caches/transforms-3/59e1e372748fafe695505fff588c45a6/transformed/jetified-firebase-common-20.3.3/AndroidManifest.xml:28:13-43
-227            android:exported="false"
-227-->[com.google.firebase:firebase-common:20.3.3] /Users/aligohar/.gradle/caches/transforms-3/59e1e372748fafe695505fff588c45a6/transformed/jetified-firebase-common-20.3.3/AndroidManifest.xml:29:13-37
-228            android:initOrder="100" /> <!-- Needs to be explicitly declared on P+ -->
-228-->[com.google.firebase:firebase-common:20.3.3] /Users/aligohar/.gradle/caches/transforms-3/59e1e372748fafe695505fff588c45a6/transformed/jetified-firebase-common-20.3.3/AndroidManifest.xml:30:13-36
-229        <uses-library
-229-->[com.google.android.gms:play-services-maps:18.1.0] /Users/aligohar/.gradle/caches/transforms-3/e0b2331bb61c92c100bbb1be09504fde/transformed/jetified-play-services-maps-18.1.0/AndroidManifest.xml:39:9-41:40
-230            android:name="org.apache.http.legacy"
-230-->[com.google.android.gms:play-services-maps:18.1.0] /Users/aligohar/.gradle/caches/transforms-3/e0b2331bb61c92c100bbb1be09504fde/transformed/jetified-play-services-maps-18.1.0/AndroidManifest.xml:40:13-50
-231            android:required="false" />
-231-->[com.google.android.gms:play-services-maps:18.1.0] /Users/aligohar/.gradle/caches/transforms-3/e0b2331bb61c92c100bbb1be09504fde/transformed/jetified-play-services-maps-18.1.0/AndroidManifest.xml:41:13-37
-232
-233        <activity
-233-->[com.google.android.gms:play-services-base:18.0.1] /Users/aligohar/.gradle/caches/transforms-3/8f31701e663a8c1514b353cc4d7239a2/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:9-22:45
-234            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-234-->[com.google.android.gms:play-services-base:18.0.1] /Users/aligohar/.gradle/caches/transforms-3/8f31701e663a8c1514b353cc4d7239a2/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:19-85
-235            android:exported="false"
-235-->[com.google.android.gms:play-services-base:18.0.1] /Users/aligohar/.gradle/caches/transforms-3/8f31701e663a8c1514b353cc4d7239a2/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:22:19-43
-236            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-236-->[com.google.android.gms:play-services-base:18.0.1] /Users/aligohar/.gradle/caches/transforms-3/8f31701e663a8c1514b353cc4d7239a2/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:21:19-78
-237
-238        <meta-data
-238-->[com.google.android.gms:play-services-basement:18.1.0] /Users/aligohar/.gradle/caches/transforms-3/ad3fb7e0e58165c0e3c87f8f0d79631f/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:21:9-23:69
-239            android:name="com.google.android.gms.version"
-239-->[com.google.android.gms:play-services-basement:18.1.0] /Users/aligohar/.gradle/caches/transforms-3/ad3fb7e0e58165c0e3c87f8f0d79631f/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:22:13-58
-240            android:value="@integer/google_play_services_version" />
-240-->[com.google.android.gms:play-services-basement:18.1.0] /Users/aligohar/.gradle/caches/transforms-3/ad3fb7e0e58165c0e3c87f8f0d79631f/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:23:13-66
+157-->[com.google.firebase:firebase-installations:17.2.0] /Users/user/.gradle/caches/transforms-3/f26765936e4064faf108de3e57929854/transformed/jetified-firebase-installations-17.2.0/AndroidManifest.xml:17:17-82
+158            <meta-data
+158-->[com.google.firebase:firebase-installations:17.2.0] /Users/user/.gradle/caches/transforms-3/f26765936e4064faf108de3e57929854/transformed/jetified-firebase-installations-17.2.0/AndroidManifest.xml:18:13-20:85
+159                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+159-->[com.google.firebase:firebase-installations:17.2.0] /Users/user/.gradle/caches/transforms-3/f26765936e4064faf108de3e57929854/transformed/jetified-firebase-installations-17.2.0/AndroidManifest.xml:19:17-127
+160                android:value="com.google.firebase.components.ComponentRegistrar" />
+160-->[com.google.firebase:firebase-installations:17.2.0] /Users/user/.gradle/caches/transforms-3/f26765936e4064faf108de3e57929854/transformed/jetified-firebase-installations-17.2.0/AndroidManifest.xml:20:17-82
+161            <meta-data
+161-->[com.google.firebase:firebase-common-ktx:20.4.2] /Users/user/.gradle/caches/transforms-3/81698066dd2582d691ed0a7cdf69e709/transformed/jetified-firebase-common-ktx-20.4.2/AndroidManifest.xml:12:13-14:85
+162                android:name="com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonLegacyRegistrar"
+162-->[com.google.firebase:firebase-common-ktx:20.4.2] /Users/user/.gradle/caches/transforms-3/81698066dd2582d691ed0a7cdf69e709/transformed/jetified-firebase-common-ktx-20.4.2/AndroidManifest.xml:13:17-116
+163                android:value="com.google.firebase.components.ComponentRegistrar" />
+163-->[com.google.firebase:firebase-common-ktx:20.4.2] /Users/user/.gradle/caches/transforms-3/81698066dd2582d691ed0a7cdf69e709/transformed/jetified-firebase-common-ktx-20.4.2/AndroidManifest.xml:14:17-82
+164            <meta-data
+164-->[com.google.firebase:firebase-common:20.4.2] /Users/user/.gradle/caches/transforms-3/911fca1d2255459eafdfd4613b3ed166/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:35:13-37:85
+165                android:name="com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar"
+165-->[com.google.firebase:firebase-common:20.4.2] /Users/user/.gradle/caches/transforms-3/911fca1d2255459eafdfd4613b3ed166/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:36:17-109
+166                android:value="com.google.firebase.components.ComponentRegistrar" />
+166-->[com.google.firebase:firebase-common:20.4.2] /Users/user/.gradle/caches/transforms-3/911fca1d2255459eafdfd4613b3ed166/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:37:17-82
+167            <meta-data
+167-->[com.google.firebase:firebase-datatransport:18.1.7] /Users/user/.gradle/caches/transforms-3/4d79d76069cc7301894a021534b9db00/transformed/jetified-firebase-datatransport-18.1.7/AndroidManifest.xml:27:13-29:85
+168                android:name="com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar"
+168-->[com.google.firebase:firebase-datatransport:18.1.7] /Users/user/.gradle/caches/transforms-3/4d79d76069cc7301894a021534b9db00/transformed/jetified-firebase-datatransport-18.1.7/AndroidManifest.xml:28:17-115
+169                android:value="com.google.firebase.components.ComponentRegistrar" />
+169-->[com.google.firebase:firebase-datatransport:18.1.7] /Users/user/.gradle/caches/transforms-3/4d79d76069cc7301894a021534b9db00/transformed/jetified-firebase-datatransport-18.1.7/AndroidManifest.xml:29:17-82
+170        </service>
+171
+172        <provider
+172-->[:firebase_messaging] /Users/user/Development/Projects/Flutter_Projects/AutoTeleLite/uploadLabel/SignTrack_Lite/SignTrack/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:43:9-47:38
+173            android:name="io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingInitProvider"
+173-->[:firebase_messaging] /Users/user/Development/Projects/Flutter_Projects/AutoTeleLite/uploadLabel/SignTrack_Lite/SignTrack/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:44:13-102
+174            android:authorities="com.signTrack.android.flutterfirebasemessaginginitprovider"
+174-->[:firebase_messaging] /Users/user/Development/Projects/Flutter_Projects/AutoTeleLite/uploadLabel/SignTrack_Lite/SignTrack/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:45:13-88
+175            android:exported="false"
+175-->[:firebase_messaging] /Users/user/Development/Projects/Flutter_Projects/AutoTeleLite/uploadLabel/SignTrack_Lite/SignTrack/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:46:13-37
+176            android:initOrder="99" />
+176-->[:firebase_messaging] /Users/user/Development/Projects/Flutter_Projects/AutoTeleLite/uploadLabel/SignTrack_Lite/SignTrack/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:47:13-35
+177
+178        <activity
+178-->[:url_launcher_android] /Users/user/Development/Projects/Flutter_Projects/AutoTeleLite/uploadLabel/SignTrack_Lite/SignTrack/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-13:74
+179            android:name="io.flutter.plugins.urllauncher.WebViewActivity"
+179-->[:url_launcher_android] /Users/user/Development/Projects/Flutter_Projects/AutoTeleLite/uploadLabel/SignTrack_Lite/SignTrack/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-74
+180            android:exported="false"
+180-->[:url_launcher_android] /Users/user/Development/Projects/Flutter_Projects/AutoTeleLite/uploadLabel/SignTrack_Lite/SignTrack/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-37
+181            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
+181-->[:url_launcher_android] /Users/user/Development/Projects/Flutter_Projects/AutoTeleLite/uploadLabel/SignTrack_Lite/SignTrack/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-71
+182        <!--
+183           Declares a provider which allows us to store files to share in
+184           '.../caches/share_plus' and grant the receiving action access
+185        -->
+186        <provider
+186-->[:share_plus] /Users/user/Development/Projects/Flutter_Projects/AutoTeleLite/uploadLabel/SignTrack_Lite/SignTrack/build/share_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:15:9-23:20
+187            android:name="dev.fluttercommunity.plus.share.ShareFileProvider"
+187-->[:share_plus] /Users/user/Development/Projects/Flutter_Projects/AutoTeleLite/uploadLabel/SignTrack_Lite/SignTrack/build/share_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:16:13-77
+188            android:authorities="com.signTrack.android.flutter.share_provider"
+188-->[:share_plus] /Users/user/Development/Projects/Flutter_Projects/AutoTeleLite/uploadLabel/SignTrack_Lite/SignTrack/build/share_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:17:13-74
+189            android:exported="false"
+189-->[:share_plus] /Users/user/Development/Projects/Flutter_Projects/AutoTeleLite/uploadLabel/SignTrack_Lite/SignTrack/build/share_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:18:13-37
+190            android:grantUriPermissions="true" >
+190-->[:share_plus] /Users/user/Development/Projects/Flutter_Projects/AutoTeleLite/uploadLabel/SignTrack_Lite/SignTrack/build/share_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:19:13-47
+191            <meta-data
+191-->[:share_plus] /Users/user/Development/Projects/Flutter_Projects/AutoTeleLite/uploadLabel/SignTrack_Lite/SignTrack/build/share_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:20:13-22:68
+192                android:name="android.support.FILE_PROVIDER_PATHS"
+192-->[:share_plus] /Users/user/Development/Projects/Flutter_Projects/AutoTeleLite/uploadLabel/SignTrack_Lite/SignTrack/build/share_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:21:17-67
+193                android:resource="@xml/flutter_share_file_paths" />
+193-->[:share_plus] /Users/user/Development/Projects/Flutter_Projects/AutoTeleLite/uploadLabel/SignTrack_Lite/SignTrack/build/share_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:22:17-65
+194        </provider>
+195        <!--
+196           This manifest declared broadcast receiver allows us to use an explicit
+197           Intent when creating a PendingItent to be informed of the user's choice
+198        -->
+199        <receiver
+199-->[:share_plus] /Users/user/Development/Projects/Flutter_Projects/AutoTeleLite/uploadLabel/SignTrack_Lite/SignTrack/build/share_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:28:9-34:20
+200            android:name="dev.fluttercommunity.plus.share.SharePlusPendingIntent"
+200-->[:share_plus] /Users/user/Development/Projects/Flutter_Projects/AutoTeleLite/uploadLabel/SignTrack_Lite/SignTrack/build/share_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:29:13-82
+201            android:exported="false" >
+201-->[:share_plus] /Users/user/Development/Projects/Flutter_Projects/AutoTeleLite/uploadLabel/SignTrack_Lite/SignTrack/build/share_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:30:13-37
+202            <intent-filter>
+202-->[:share_plus] /Users/user/Development/Projects/Flutter_Projects/AutoTeleLite/uploadLabel/SignTrack_Lite/SignTrack/build/share_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:31:13-33:29
+203                <action android:name="EXTRA_CHOSEN_COMPONENT" />
+203-->[:share_plus] /Users/user/Development/Projects/Flutter_Projects/AutoTeleLite/uploadLabel/SignTrack_Lite/SignTrack/build/share_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:32:17-65
+203-->[:share_plus] /Users/user/Development/Projects/Flutter_Projects/AutoTeleLite/uploadLabel/SignTrack_Lite/SignTrack/build/share_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:32:25-62
+204            </intent-filter>
+205        </receiver>
+206
+207        <uses-library
+207-->[androidx.window:window:1.0.0] /Users/user/.gradle/caches/transforms-3/d9db59a6763cadb37527753771272ef4/transformed/jetified-window-1.0.0/AndroidManifest.xml:25:9-27:40
+208            android:name="androidx.window.extensions"
+208-->[androidx.window:window:1.0.0] /Users/user/.gradle/caches/transforms-3/d9db59a6763cadb37527753771272ef4/transformed/jetified-window-1.0.0/AndroidManifest.xml:26:13-54
+209            android:required="false" />
+209-->[androidx.window:window:1.0.0] /Users/user/.gradle/caches/transforms-3/d9db59a6763cadb37527753771272ef4/transformed/jetified-window-1.0.0/AndroidManifest.xml:27:13-37
+210        <uses-library
+210-->[androidx.window:window:1.0.0] /Users/user/.gradle/caches/transforms-3/d9db59a6763cadb37527753771272ef4/transformed/jetified-window-1.0.0/AndroidManifest.xml:28:9-30:40
+211            android:name="androidx.window.sidecar"
+211-->[androidx.window:window:1.0.0] /Users/user/.gradle/caches/transforms-3/d9db59a6763cadb37527753771272ef4/transformed/jetified-window-1.0.0/AndroidManifest.xml:29:13-51
+212            android:required="false" /> <!-- Needs to be explicitly declared on P+ -->
+212-->[androidx.window:window:1.0.0] /Users/user/.gradle/caches/transforms-3/d9db59a6763cadb37527753771272ef4/transformed/jetified-window-1.0.0/AndroidManifest.xml:30:13-37
+213        <uses-library
+213-->[com.google.android.gms:play-services-maps:18.2.0] /Users/user/.gradle/caches/transforms-3/6f9936a5193172f1161ad72357d1a619/transformed/jetified-play-services-maps-18.2.0/AndroidManifest.xml:39:9-41:40
+214            android:name="org.apache.http.legacy"
+214-->[com.google.android.gms:play-services-maps:18.2.0] /Users/user/.gradle/caches/transforms-3/6f9936a5193172f1161ad72357d1a619/transformed/jetified-play-services-maps-18.2.0/AndroidManifest.xml:40:13-50
+215            android:required="false" />
+215-->[com.google.android.gms:play-services-maps:18.2.0] /Users/user/.gradle/caches/transforms-3/6f9936a5193172f1161ad72357d1a619/transformed/jetified-play-services-maps-18.2.0/AndroidManifest.xml:41:13-37
+216
+217        <receiver
+217-->[com.google.firebase:firebase-messaging:23.3.1] /Users/user/.gradle/caches/transforms-3/d9f2c88f87a752d664add134c975f5ec/transformed/jetified-firebase-messaging-23.3.1/AndroidManifest.xml:29:9-40:20
+218            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+218-->[com.google.firebase:firebase-messaging:23.3.1] /Users/user/.gradle/caches/transforms-3/d9f2c88f87a752d664add134c975f5ec/transformed/jetified-firebase-messaging-23.3.1/AndroidManifest.xml:30:13-78
+219            android:exported="true"
+219-->[com.google.firebase:firebase-messaging:23.3.1] /Users/user/.gradle/caches/transforms-3/d9f2c88f87a752d664add134c975f5ec/transformed/jetified-firebase-messaging-23.3.1/AndroidManifest.xml:31:13-36
+220            android:permission="com.google.android.c2dm.permission.SEND" >
+220-->[com.google.firebase:firebase-messaging:23.3.1] /Users/user/.gradle/caches/transforms-3/d9f2c88f87a752d664add134c975f5ec/transformed/jetified-firebase-messaging-23.3.1/AndroidManifest.xml:32:13-73
+221            <intent-filter>
+221-->[:firebase_messaging] /Users/user/Development/Projects/Flutter_Projects/AutoTeleLite/uploadLabel/SignTrack_Lite/SignTrack/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:32:13-34:29
+222                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+222-->[:firebase_messaging] /Users/user/Development/Projects/Flutter_Projects/AutoTeleLite/uploadLabel/SignTrack_Lite/SignTrack/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:33:17-81
+222-->[:firebase_messaging] /Users/user/Development/Projects/Flutter_Projects/AutoTeleLite/uploadLabel/SignTrack_Lite/SignTrack/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:33:25-78
+223            </intent-filter>
+224
+225            <meta-data
+225-->[com.google.firebase:firebase-messaging:23.3.1] /Users/user/.gradle/caches/transforms-3/d9f2c88f87a752d664add134c975f5ec/transformed/jetified-firebase-messaging-23.3.1/AndroidManifest.xml:37:13-39:40
+226                android:name="com.google.android.gms.cloudmessaging.FINISHED_AFTER_HANDLED"
+226-->[com.google.firebase:firebase-messaging:23.3.1] /Users/user/.gradle/caches/transforms-3/d9f2c88f87a752d664add134c975f5ec/transformed/jetified-firebase-messaging-23.3.1/AndroidManifest.xml:38:17-92
+227                android:value="true" />
+227-->[com.google.firebase:firebase-messaging:23.3.1] /Users/user/.gradle/caches/transforms-3/d9f2c88f87a752d664add134c975f5ec/transformed/jetified-firebase-messaging-23.3.1/AndroidManifest.xml:39:17-37
+228        </receiver>
+229        <!--
+230             FirebaseMessagingService performs security checks at runtime,
+231             but set to not exported to explicitly avoid allowing another app to call it.
+232        -->
+233        <service
+233-->[com.google.firebase:firebase-messaging:23.3.1] /Users/user/.gradle/caches/transforms-3/d9f2c88f87a752d664add134c975f5ec/transformed/jetified-firebase-messaging-23.3.1/AndroidManifest.xml:46:9-53:19
+234            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+234-->[com.google.firebase:firebase-messaging:23.3.1] /Users/user/.gradle/caches/transforms-3/d9f2c88f87a752d664add134c975f5ec/transformed/jetified-firebase-messaging-23.3.1/AndroidManifest.xml:47:13-82
+235            android:directBootAware="true"
+235-->[com.google.firebase:firebase-messaging:23.3.1] /Users/user/.gradle/caches/transforms-3/d9f2c88f87a752d664add134c975f5ec/transformed/jetified-firebase-messaging-23.3.1/AndroidManifest.xml:48:13-43
+236            android:exported="false" >
+236-->[com.google.firebase:firebase-messaging:23.3.1] /Users/user/.gradle/caches/transforms-3/d9f2c88f87a752d664add134c975f5ec/transformed/jetified-firebase-messaging-23.3.1/AndroidManifest.xml:49:13-37
+237            <intent-filter android:priority="-500" >
+237-->[:firebase_messaging] /Users/user/Development/Projects/Flutter_Projects/AutoTeleLite/uploadLabel/SignTrack_Lite/SignTrack/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:23:13-25:29
+238                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+238-->[:firebase_messaging] /Users/user/Development/Projects/Flutter_Projects/AutoTeleLite/uploadLabel/SignTrack_Lite/SignTrack/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:24:17-78
+238-->[:firebase_messaging] /Users/user/Development/Projects/Flutter_Projects/AutoTeleLite/uploadLabel/SignTrack_Lite/SignTrack/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:24:25-75
+239            </intent-filter>
+240        </service>
 241
-242        <service
-242-->[com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/aligohar/.gradle/caches/transforms-3/3f8abbb60d5c4c3da088d9cf8719f09b/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:28:9-34:19
-243            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
-243-->[com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/aligohar/.gradle/caches/transforms-3/3f8abbb60d5c4c3da088d9cf8719f09b/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:29:13-103
-244            android:exported="false" >
-244-->[com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/aligohar/.gradle/caches/transforms-3/3f8abbb60d5c4c3da088d9cf8719f09b/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:30:13-37
-245            <meta-data
-245-->[com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/aligohar/.gradle/caches/transforms-3/3f8abbb60d5c4c3da088d9cf8719f09b/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:31:13-33:39
-246                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
-246-->[com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/aligohar/.gradle/caches/transforms-3/3f8abbb60d5c4c3da088d9cf8719f09b/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:32:17-94
-247                android:value="cct" />
-247-->[com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/aligohar/.gradle/caches/transforms-3/3f8abbb60d5c4c3da088d9cf8719f09b/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:33:17-36
-248        </service>
-249        <service
-249-->[com.google.android.datatransport:transport-runtime:3.1.8] /Users/aligohar/.gradle/caches/transforms-3/832066d38c964edf87a4ceac992c0cb0/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:26:9-30:19
-250            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
-250-->[com.google.android.datatransport:transport-runtime:3.1.8] /Users/aligohar/.gradle/caches/transforms-3/832066d38c964edf87a4ceac992c0cb0/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:27:13-117
+242        <activity
+242-->[com.google.android.gms:play-services-base:18.0.1] /Users/user/.gradle/caches/transforms-3/dbfae622e7189c584a23db8d369762ff/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:9-22:45
+243            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+243-->[com.google.android.gms:play-services-base:18.0.1] /Users/user/.gradle/caches/transforms-3/dbfae622e7189c584a23db8d369762ff/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:19-85
+244            android:exported="false"
+244-->[com.google.android.gms:play-services-base:18.0.1] /Users/user/.gradle/caches/transforms-3/dbfae622e7189c584a23db8d369762ff/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:22:19-43
+245            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+245-->[com.google.android.gms:play-services-base:18.0.1] /Users/user/.gradle/caches/transforms-3/dbfae622e7189c584a23db8d369762ff/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:21:19-78
+246
+247        <provider
+247-->[com.google.firebase:firebase-common:20.4.2] /Users/user/.gradle/caches/transforms-3/911fca1d2255459eafdfd4613b3ed166/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:23:9-28:39
+248            android:name="com.google.firebase.provider.FirebaseInitProvider"
+248-->[com.google.firebase:firebase-common:20.4.2] /Users/user/.gradle/caches/transforms-3/911fca1d2255459eafdfd4613b3ed166/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:24:13-77
+249            android:authorities="com.signTrack.android.firebaseinitprovider"
+249-->[com.google.firebase:firebase-common:20.4.2] /Users/user/.gradle/caches/transforms-3/911fca1d2255459eafdfd4613b3ed166/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:25:13-72
+250            android:directBootAware="true"
+250-->[com.google.firebase:firebase-common:20.4.2] /Users/user/.gradle/caches/transforms-3/911fca1d2255459eafdfd4613b3ed166/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:26:13-43
 251            android:exported="false"
-251-->[com.google.android.datatransport:transport-runtime:3.1.8] /Users/aligohar/.gradle/caches/transforms-3/832066d38c964edf87a4ceac992c0cb0/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:28:13-37
-252            android:permission="android.permission.BIND_JOB_SERVICE" >
-252-->[com.google.android.datatransport:transport-runtime:3.1.8] /Users/aligohar/.gradle/caches/transforms-3/832066d38c964edf87a4ceac992c0cb0/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:29:13-69
-253        </service>
-254
-255        <receiver
-255-->[com.google.android.datatransport:transport-runtime:3.1.8] /Users/aligohar/.gradle/caches/transforms-3/832066d38c964edf87a4ceac992c0cb0/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:32:9-34:40
-256            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
-256-->[com.google.android.datatransport:transport-runtime:3.1.8] /Users/aligohar/.gradle/caches/transforms-3/832066d38c964edf87a4ceac992c0cb0/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:33:13-132
-257            android:exported="false" />
-257-->[com.google.android.datatransport:transport-runtime:3.1.8] /Users/aligohar/.gradle/caches/transforms-3/832066d38c964edf87a4ceac992c0cb0/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:34:13-37
-258    </application>
-259
-260</manifest>
+251-->[com.google.firebase:firebase-common:20.4.2] /Users/user/.gradle/caches/transforms-3/911fca1d2255459eafdfd4613b3ed166/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:27:13-37
+252            android:initOrder="100" />
+252-->[com.google.firebase:firebase-common:20.4.2] /Users/user/.gradle/caches/transforms-3/911fca1d2255459eafdfd4613b3ed166/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:28:13-36
+253
+254        <meta-data
+254-->[com.google.android.gms:play-services-basement:18.1.0] /Users/user/.gradle/caches/transforms-3/0f70a6c778cb006dd330d59e7fa20568/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:21:9-23:69
+255            android:name="com.google.android.gms.version"
+255-->[com.google.android.gms:play-services-basement:18.1.0] /Users/user/.gradle/caches/transforms-3/0f70a6c778cb006dd330d59e7fa20568/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:22:13-58
+256            android:value="@integer/google_play_services_version" />
+256-->[com.google.android.gms:play-services-basement:18.1.0] /Users/user/.gradle/caches/transforms-3/0f70a6c778cb006dd330d59e7fa20568/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:23:13-66
+257
+258        <service
+258-->[com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/user/.gradle/caches/transforms-3/1eda60c82be47dd5aec2b96d73588d7d/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:28:9-34:19
+259            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+259-->[com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/user/.gradle/caches/transforms-3/1eda60c82be47dd5aec2b96d73588d7d/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:29:13-103
+260            android:exported="false" >
+260-->[com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/user/.gradle/caches/transforms-3/1eda60c82be47dd5aec2b96d73588d7d/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:30:13-37
+261            <meta-data
+261-->[com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/user/.gradle/caches/transforms-3/1eda60c82be47dd5aec2b96d73588d7d/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:31:13-33:39
+262                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+262-->[com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/user/.gradle/caches/transforms-3/1eda60c82be47dd5aec2b96d73588d7d/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:32:17-94
+263                android:value="cct" />
+263-->[com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/user/.gradle/caches/transforms-3/1eda60c82be47dd5aec2b96d73588d7d/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:33:17-36
+264        </service>
+265        <service
+265-->[com.google.android.datatransport:transport-runtime:3.1.8] /Users/user/.gradle/caches/transforms-3/25423b2c641002f59492681147cf39d0/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:26:9-30:19
+266            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+266-->[com.google.android.datatransport:transport-runtime:3.1.8] /Users/user/.gradle/caches/transforms-3/25423b2c641002f59492681147cf39d0/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:27:13-117
+267            android:exported="false"
+267-->[com.google.android.datatransport:transport-runtime:3.1.8] /Users/user/.gradle/caches/transforms-3/25423b2c641002f59492681147cf39d0/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:28:13-37
+268            android:permission="android.permission.BIND_JOB_SERVICE" >
+268-->[com.google.android.datatransport:transport-runtime:3.1.8] /Users/user/.gradle/caches/transforms-3/25423b2c641002f59492681147cf39d0/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:29:13-69
+269        </service>
+270
+271        <receiver
+271-->[com.google.android.datatransport:transport-runtime:3.1.8] /Users/user/.gradle/caches/transforms-3/25423b2c641002f59492681147cf39d0/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:32:9-34:40
+272            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+272-->[com.google.android.datatransport:transport-runtime:3.1.8] /Users/user/.gradle/caches/transforms-3/25423b2c641002f59492681147cf39d0/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:33:13-132
+273            android:exported="false" />
+273-->[com.google.android.datatransport:transport-runtime:3.1.8] /Users/user/.gradle/caches/transforms-3/25423b2c641002f59492681147cf39d0/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:34:13-37
+274    </application>
+275
+276</manifest>

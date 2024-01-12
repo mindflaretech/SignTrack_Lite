@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="default_web_client_id" translatable="false">906985510839-phno2770ga5qrigvp89ndlmrog38gvjq.apps.googleusercontent.com</string>
-    <string name="gcm_defaultSenderId" translatable="false">906985510839</string>
-    <string name="google_api_key" translatable="false">AIzaSyBpfZhjrkjeS-nkP-yAj-JmbrZ7j1NfVyE</string>
-    <string name="google_app_id" translatable="false">1:906985510839:android:ed1f651158bb96f7b3ba32</string>
-    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBpfZhjrkjeS-nkP-yAj-JmbrZ7j1NfVyE</string>
-    <string name="google_storage_bucket" translatable="false">tracknowpk-1cadd.appspot.com</string>
-    <string name="project_id" translatable="false">tracknowpk-1cadd</string>
+    <string name="gcm_defaultSenderId" translatable="false">339329536042</string>
+    <string name="google_api_key" translatable="false">AIzaSyBd7u3Jl_979xmMn3-9NtTcPKqFce5smkY</string>
+    <string name="google_app_id" translatable="false">1:339329536042:android:bdf5b9bfa85c2c52abb353</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBd7u3Jl_979xmMn3-9NtTcPKqFce5smkY</string>
+    <string name="google_storage_bucket" translatable="false">autotel-2f5a1.appspot.com</string>
+    <string name="project_id" translatable="false">autotel-2f5a1</string>
 </resources>

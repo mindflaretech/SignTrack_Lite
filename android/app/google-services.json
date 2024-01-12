@@ -1,303 +1,178 @@
 {
   "project_info": {
-    "project_number": "906985510839",
-    "project_id": "tracknowpk-1cadd",
-    "storage_bucket": "tracknowpk-1cadd.appspot.com"
+    "project_number": "339329536042",
+    "project_id": "autotel-2f5a1",
+    "storage_bucket": "autotel-2f5a1.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:906985510839:android:abe21e0bdca143a2b3ba32",
+        "mobilesdk_app_id": "1:339329536042:android:d0f6493a0ebbaca6abb353",
         "android_client_info": {
-          "package_name": "com.ababeeltrack.android"
+          "package_name": "com.autotelbasic.android"
         }
       },
-      "oauth_client": [
-        {
-          "client_id": "906985510839-phno2770ga5qrigvp89ndlmrog38gvjq.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
+      "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBpfZhjrkjeS-nkP-yAj-JmbrZ7j1NfVyE"
+          "current_key": "AIzaSyBd7u3Jl_979xmMn3-9NtTcPKqFce5smkY"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "906985510839-phno2770ga5qrigvp89ndlmrog38gvjq.apps.googleusercontent.com",
-              "client_type": 3
-            },
-            {
-              "client_id": "906985510839-0cvpu3dtblaadaqsf830cl80od1739f5.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "com.eagletracker.ios",
-                "app_store_id": "6443445177"
-              }
-            }
-          ]
+          "other_platform_oauth_client": []
         }
       }
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:906985510839:android:f0e2bbd7ed9408f9b3ba32",
+        "mobilesdk_app_id": "1:339329536042:android:b064e760c8cd1a0babb353",
         "android_client_info": {
-          "package_name": "com.cybertrackingpk.android"
+          "package_name": "com.autotellite.android"
         }
       },
-      "oauth_client": [
-        {
-          "client_id": "906985510839-phno2770ga5qrigvp89ndlmrog38gvjq.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
+      "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBpfZhjrkjeS-nkP-yAj-JmbrZ7j1NfVyE"
+          "current_key": "AIzaSyBd7u3Jl_979xmMn3-9NtTcPKqFce5smkY"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "906985510839-phno2770ga5qrigvp89ndlmrog38gvjq.apps.googleusercontent.com",
-              "client_type": 3
-            },
-            {
-              "client_id": "906985510839-0cvpu3dtblaadaqsf830cl80od1739f5.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "com.eagletracker.ios",
-                "app_store_id": "6443445177"
-              }
-            }
-          ]
+          "other_platform_oauth_client": []
         }
       }
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:906985510839:android:daad6bc9dc93022ab3ba32",
+        "mobilesdk_app_id": "1:339329536042:android:c0331a53395f7ae5abb353",
         "android_client_info": {
-          "package_name": "com.eagletracker.android"
+          "package_name": "com.autotelnew.android"
         }
       },
-      "oauth_client": [
-        {
-          "client_id": "906985510839-phno2770ga5qrigvp89ndlmrog38gvjq.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
+      "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBpfZhjrkjeS-nkP-yAj-JmbrZ7j1NfVyE"
+          "current_key": "AIzaSyBd7u3Jl_979xmMn3-9NtTcPKqFce5smkY"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "906985510839-phno2770ga5qrigvp89ndlmrog38gvjq.apps.googleusercontent.com",
-              "client_type": 3
-            },
-            {
-              "client_id": "906985510839-0cvpu3dtblaadaqsf830cl80od1739f5.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "com.eagletracker.ios",
-                "app_store_id": "6443445177"
-              }
-            }
-          ]
+          "other_platform_oauth_client": []
         }
       }
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:906985510839:android:6f173f7122e5f197b3ba32",
+        "mobilesdk_app_id": "1:339329536042:android:90cbb5099a919394abb353",
         "android_client_info": {
-          "package_name": "com.example.aitracker_app"
+          "package_name": "com.gigatrack.android"
         }
       },
-      "oauth_client": [
-        {
-          "client_id": "906985510839-phno2770ga5qrigvp89ndlmrog38gvjq.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
+      "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBpfZhjrkjeS-nkP-yAj-JmbrZ7j1NfVyE"
+          "current_key": "AIzaSyBd7u3Jl_979xmMn3-9NtTcPKqFce5smkY"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "906985510839-phno2770ga5qrigvp89ndlmrog38gvjq.apps.googleusercontent.com",
-              "client_type": 3
-            },
-            {
-              "client_id": "906985510839-0cvpu3dtblaadaqsf830cl80od1739f5.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "com.eagletracker.ios",
-                "app_store_id": "6443445177"
-              }
-            }
-          ]
+          "other_platform_oauth_client": []
         }
       }
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:906985510839:android:ec307be7efbeb2f3b3ba32",
+        "mobilesdk_app_id": "1:339329536042:android:19207ad4d8259b73abb353",
         "android_client_info": {
-          "package_name": "com.example.aitrackerapp"
+          "package_name": "com.opiniongps.android"
         }
       },
-      "oauth_client": [
-        {
-          "client_id": "906985510839-phno2770ga5qrigvp89ndlmrog38gvjq.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
+      "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBpfZhjrkjeS-nkP-yAj-JmbrZ7j1NfVyE"
+          "current_key": "AIzaSyBd7u3Jl_979xmMn3-9NtTcPKqFce5smkY"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "906985510839-phno2770ga5qrigvp89ndlmrog38gvjq.apps.googleusercontent.com",
-              "client_type": 3
-            },
-            {
-              "client_id": "906985510839-0cvpu3dtblaadaqsf830cl80od1739f5.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "com.eagletracker.ios",
-                "app_store_id": "6443445177"
-              }
-            }
-          ]
+          "other_platform_oauth_client": []
         }
       }
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:906985510839:android:ed1f651158bb96f7b3ba32",
+        "mobilesdk_app_id": "1:339329536042:android:bdf5b9bfa85c2c52abb353",
         "android_client_info": {
-          "package_name": "com.nostrumlite.android"
+          "package_name": "com.signTrack.android"
         }
       },
-      "oauth_client": [
-        {
-          "client_id": "906985510839-phno2770ga5qrigvp89ndlmrog38gvjq.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
+      "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBpfZhjrkjeS-nkP-yAj-JmbrZ7j1NfVyE"
+          "current_key": "AIzaSyBd7u3Jl_979xmMn3-9NtTcPKqFce5smkY"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "906985510839-phno2770ga5qrigvp89ndlmrog38gvjq.apps.googleusercontent.com",
-              "client_type": 3
-            },
-            {
-              "client_id": "906985510839-0cvpu3dtblaadaqsf830cl80od1739f5.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "com.eagletracker.ios",
-                "app_store_id": "6443445177"
-              }
-            }
-          ]
+          "other_platform_oauth_client": []
         }
       }
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:906985510839:android:e5eb4e12c2d0c290b3ba32",
+        "mobilesdk_app_id": "1:339329536042:android:78ab317f4d418642abb353",
         "android_client_info": {
-          "package_name": "com.tracknow.android"
+          "package_name": "com.trackit.android"
         }
       },
-      "oauth_client": [
-        {
-          "client_id": "906985510839-phno2770ga5qrigvp89ndlmrog38gvjq.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
+      "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBpfZhjrkjeS-nkP-yAj-JmbrZ7j1NfVyE"
+          "current_key": "AIzaSyBd7u3Jl_979xmMn3-9NtTcPKqFce5smkY"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "906985510839-phno2770ga5qrigvp89ndlmrog38gvjq.apps.googleusercontent.com",
-              "client_type": 3
-            },
-            {
-              "client_id": "906985510839-0cvpu3dtblaadaqsf830cl80od1739f5.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "com.eagletracker.ios",
-                "app_store_id": "6443445177"
-              }
-            }
-          ]
+          "other_platform_oauth_client": []
         }
       }
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:906985510839:android:605a6be4ff4a3ae0b3ba32",
+        "mobilesdk_app_id": "1:339329536042:android:4eebdfb8bd00794aabb353",
         "android_client_info": {
-          "package_name": "com.trackorbitapp.android"
+          "package_name": "com.trackitlite.android"
         }
       },
-      "oauth_client": [
-        {
-          "client_id": "906985510839-phno2770ga5qrigvp89ndlmrog38gvjq.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
+      "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBpfZhjrkjeS-nkP-yAj-JmbrZ7j1NfVyE"
+          "current_key": "AIzaSyBd7u3Jl_979xmMn3-9NtTcPKqFce5smkY"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "906985510839-phno2770ga5qrigvp89ndlmrog38gvjq.apps.googleusercontent.com",
-              "client_type": 3
-            },
-            {
-              "client_id": "906985510839-0cvpu3dtblaadaqsf830cl80od1739f5.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "com.eagletracker.ios",
-                "app_store_id": "6443445177"
-              }
-            }
-          ]
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339329536042:android:d08f2ba006966d45abb353",
+        "android_client_info": {
+          "package_name": "com.trackitpro.android"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBd7u3Jl_979xmMn3-9NtTcPKqFce5smkY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
         }
       }
     }

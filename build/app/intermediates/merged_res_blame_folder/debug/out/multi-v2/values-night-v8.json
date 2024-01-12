@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.nostrumlite.android.app-mergeDebugResources-21:/values-night-v8/values-night-v8.xml",
+            "outputFile": "com.signTrack.android.app-mergeDebugResources-21:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/Users/aligohar/Development/Autotel-Lite/White_Labeling/nostrum-track/android/app/src/main/res/values-night/styles.xml",
+                    "source": "/Users/user/Development/Projects/Flutter_Projects/AutoTeleLite/uploadLabel/SignTrack_Lite/SignTrack/android/app/src/main/res/values-night/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",

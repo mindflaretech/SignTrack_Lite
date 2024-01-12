@@ -4,12 +4,12 @@
 4
 5    <uses-sdk
 6        android:minSdkVersion="16"
-6-->/Users/aligohar/.pub-cache/hosted/pub.dev/connectivity-3.0.6/android/src/main/AndroidManifest.xml
+6-->/Users/user/.pub-cache/hosted/pub.dev/connectivity-3.0.6/android/src/main/AndroidManifest.xml
 7        android:targetSdkVersion="16" />
-7-->/Users/aligohar/.pub-cache/hosted/pub.dev/connectivity-3.0.6/android/src/main/AndroidManifest.xml
+7-->/Users/user/.pub-cache/hosted/pub.dev/connectivity-3.0.6/android/src/main/AndroidManifest.xml
 8
 9    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-9-->/Users/aligohar/.pub-cache/hosted/pub.dev/connectivity-3.0.6/android/src/main/AndroidManifest.xml:3:3-76
-9-->/Users/aligohar/.pub-cache/hosted/pub.dev/connectivity-3.0.6/android/src/main/AndroidManifest.xml:3:20-74
+9-->/Users/user/.pub-cache/hosted/pub.dev/connectivity-3.0.6/android/src/main/AndroidManifest.xml:3:3-76
+9-->/Users/user/.pub-cache/hosted/pub.dev/connectivity-3.0.6/android/src/main/AndroidManifest.xml:3:20-74
 10
 11</manifest>

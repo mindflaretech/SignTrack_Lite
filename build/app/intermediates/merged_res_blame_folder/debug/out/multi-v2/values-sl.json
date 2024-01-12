@@ -1,27 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.nostrumlite.android.app-mergeDebugResources-21:/values-sl/values-sl.xml",
+            "outputFile": "com.signTrack.android.app-mergeDebugResources-21:/values-sl/values-sl.xml",
             "map": [
                 {
-                    "source": "/Users/aligohar/.gradle/caches/transforms-3/e73600b7204754fa6eaab4c4f4dd2179/transformed/core-1.10.1/res/values-sl/values-sl.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,152,254,352,456,559,661,778",
-                        "endColumns": "96,101,97,103,102,101,116,100",
-                        "endOffsets": "147,249,347,451,554,656,773,874"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6,7,8,40",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,152,254,352,456,559,661,4102",
-                        "endColumns": "96,101,97,103,102,101,116,100",
-                        "endOffsets": "147,249,347,451,554,656,773,4198"
-                    }
-                },
-                {
-                    "source": "/Users/aligohar/.gradle/caches/transforms-3/4fedf0b2e68f893a44b6c460f500b31e/transformed/browser-1.5.0/res/values-sl/values-sl.xml",
+                    "source": "/Users/user/.gradle/caches/transforms-3/ed23c78902c6dbcc79ade0fbddde7f09/transformed/browser-1.5.0/res/values-sl/values-sl.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -38,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/Users/aligohar/.gradle/caches/transforms-3/8f31701e663a8c1514b353cc4d7239a2/transformed/jetified-play-services-base-18.0.1/res/values-sl/values.xml",
+                    "source": "/Users/user/.gradle/caches/transforms-3/dbfae622e7189c584a23db8d369762ff/transformed/jetified-play-services-base-18.0.1/res/values-sl/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -55,7 +38,7 @@
                     }
                 },
                 {
-                    "source": "/Users/aligohar/.gradle/caches/transforms-3/ad3fb7e0e58165c0e3c87f8f0d79631f/transformed/jetified-play-services-basement-18.1.0/res/values-sl/values.xml",
+                    "source": "/Users/user/.gradle/caches/transforms-3/0f70a6c778cb006dd330d59e7fa20568/transformed/jetified-play-services-basement-18.1.0/res/values-sl/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -72,7 +55,7 @@
                     }
                 },
                 {
-                    "source": "/Users/aligohar/.gradle/caches/transforms-3/7bcf2a17f9b75db82e2f1633ac8ddf1f/transformed/jetified-exoplayer-core-2.18.7/res/values-sl/values-sl.xml",
+                    "source": "/Users/user/.gradle/caches/transforms-3/1b1585ec5604c178424641fc740e3999/transformed/jetified-exoplayer-core-2.18.7/res/values-sl/values-sl.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10",
                         "startColumns": "4,4,4,4,4,4,4,4,4",
@@ -86,6 +69,23 @@
                         "startOffsets": "3108,3176,3236,3300,3364,3439,3520,3619,3710",
                         "endColumns": "67,59,63,63,74,80,98,90,73",
                         "endOffsets": "3171,3231,3295,3359,3434,3515,3614,3705,3779"
+                    }
+                },
+                {
+                    "source": "/Users/user/.gradle/caches/transforms-3/7fcaf05ac8f2fb224caef7ff13c7f1a5/transformed/core-1.10.1/res/values-sl/values-sl.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,152,254,352,456,559,661,778",
+                        "endColumns": "96,101,97,103,102,101,116,100",
+                        "endOffsets": "147,249,347,451,554,656,773,874"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,40",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,152,254,352,456,559,661,4102",
+                        "endColumns": "96,101,97,103,102,101,116,100",
+                        "endOffsets": "147,249,347,451,554,656,773,4198"
                     }
                 }
             ]

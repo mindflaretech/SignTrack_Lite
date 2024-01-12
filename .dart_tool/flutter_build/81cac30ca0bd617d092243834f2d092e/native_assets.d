@@ -1,0 +1,1 @@
+ /Users/user/Development/Projects/Flutter_Projects/AutoTeleLite/uploadLabel/SignTrack_Lite/SignTrack/.dart_tool/flutter_build/81cac30ca0bd617d092243834f2d092e/native_assets.yaml: 

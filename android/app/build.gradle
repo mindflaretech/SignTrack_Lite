@@ -52,7 +52,7 @@ android {
 
     defaultConfig {
         // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
-        applicationId "com.nostrumlite.android"
+        applicationId "com.signTrack.android"
         // You can update the following values to match your application needs.
         // For more information, see: https://docs.flutter.dev/deployment/android#reviewing-the-gradle-build-configuration.
         minSdkVersion 21
@@ -61,7 +61,14 @@ android {
         versionCode flutterVersionCode.toInteger()
         versionName flutterVersionName
     }
-
+// signingConfigs {
+//         release {
+//             keyAlias "upload" // Use the correct alias, in this case, "upload"
+//             keyPassword "your_key_password"
+//             storeFile file("/Users/user/Development/Projects/Flutter_Projects/AutoTeleLite/uploadLabel/Nostrum_Track/NostrumTrack-Lite/upload-keystore.jks") // Update the path to your keystore file
+//             storePassword "your_keystore_password"
+//         }
+//     }
      signingConfigs {
         release {
             keyAlias keystoreProperties['keyAlias']

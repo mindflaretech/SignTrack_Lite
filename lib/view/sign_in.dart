@@ -3,6 +3,7 @@ import 'package:autotelematic_new_app/res/apptheme.dart';
 import 'package:autotelematic_new_app/utils/commonutils.dart';
 import 'package:autotelematic_new_app/utils/routes/routes_names.dart';
 import 'package:flutter/material.dart';
+import 'package:url_launcher/url_launcher.dart';
 
 import 'package:flutter_bloc/flutter_bloc.dart';
 
@@ -26,6 +27,15 @@ class _LoginScreenState extends State<LoginScreen> {
     passwordController.dispose();
     emailFocusNode.dispose();
     passwordFocusNode.dispose();
+  }
+
+  _launchURLBrowser(String link) async {
+    var url = Uri.parse(link);
+    if (await canLaunchUrl(url)) {
+      await launchUrl(url, mode: LaunchMode.externalApplication);
+    } else {
+      throw 'Could not launch $url';
+    }
   }
 
   @override
@@ -150,8 +160,8 @@ class _LoginScreenState extends State<LoginScreen> {
             children: [
               const Text('Dont have an account? '),
               GestureDetector(
-                onTap: () => CommonUtils.launchURLBrowser(
-                    'mailto:trackdrive37@gmail.com'),
+                onTap: () =>
+                    _launchURLBrowser('whatsapp://send?phone=923372224455'),
                 child: const Text(
                   'Contact Us',
                   style: TextStyle(

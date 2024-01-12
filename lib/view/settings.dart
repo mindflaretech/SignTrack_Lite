@@ -197,7 +197,7 @@ class _AppSettingsScreenState extends State<AppSettingsScreen> {
                     Card(
                       child: InkWell(
                         onTap: () =>
-                            CommonUtils.launchURLBrowser('tel:+923096735079'),
+                            CommonUtils.launchURLBrowser('tel:+923372224455'),
                         child: ListTile(
                           leading: const Image(
                             image: AssetImage(
@@ -296,7 +296,7 @@ class _AppSettingsScreenState extends State<AppSettingsScreen> {
                     Card(
                       child: InkWell(
                         onTap: () => CommonUtils.launchURLBrowser(
-                            'whatsapp://send?phone=923096735079'),
+                            'whatsapp://send?phone=923372224455'),
                         child: ListTile(
                           leading: const Image(
                             image: AssetImage('assets/images/8380066.png'),
@@ -314,7 +314,7 @@ class _AppSettingsScreenState extends State<AppSettingsScreen> {
                     Card(
                       child: InkWell(
                         onTap: () => CommonUtils.launchURLBrowser(
-                            'https://www.nostrumtrack.com'),
+                            'https://www.signtrack.pk'),
                         child: ListTile(
                           leading: const Image(
                             image: AssetImage('assets/images/8380020.png'),
@@ -332,7 +332,7 @@ class _AppSettingsScreenState extends State<AppSettingsScreen> {
                     Card(
                       child: InkWell(
                         onTap: () => CommonUtils.launchURLBrowser(
-                            'https://www.nostrumtrack.com'),
+                            'https://signtrack.pk/terms-and-conditions/'),
                         child: ListTile(
                           leading: const Image(
                             image: AssetImage('assets/images/7228764.png'),

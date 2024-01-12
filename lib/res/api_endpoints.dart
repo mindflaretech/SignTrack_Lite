@@ -1,8 +1,12 @@
 class ApiEndpointUrls {
   // static var baseURL = 'https://track.autotel.pk/api';
   // static var baseImgURL = 'https://track.autotel.pk/';
-  static var baseURL = 'https://tracknow.pk/api';
-  static var baseImgURL = 'https://tracknow.pk/';
+  // static var baseURL = 'https://tracknow.pk/api';
+  // static var baseImgURL = 'https://tracknow.pk/';
+  // static var baseURL = 'https://signtrack.pk/api';
+  // static var baseImgURL = 'https://signtrack.pk/';
+  static var baseURL = 'https://login.signtrack.pk';
+  static var baseImgURL = 'https://login.signtrack.pk/';
   static var loginEndPoint = '/login';
   static var eventsEndPoint = '/get_events?user_api_hash=';
   static var destroyEventsEndPoint = '/destroy_events?user_api_hash=';

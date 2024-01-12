@@ -30,7 +30,7 @@ class LocalNotificationServices {
   static void showNotifiationForground(RemoteMessage message) {
     const notificationDetails = NotificationDetails(
       android: AndroidNotificationDetails(
-          'com.nostrumlite.android', 'Nostrum_Track',
+          'com.signTrack.android', 'Nostrum_Track',
           importance: Importance.high,
           priority: Priority.high,
           icon: '@mipmap/launcher_icon'),
@@ -50,8 +50,8 @@ class LocalNotificationServices {
   static void showNotifiationForgroundString(String title, String body) {
     const notificationDetails = NotificationDetails(
       android: AndroidNotificationDetails(
-        'com.nostrumlite.android',
-        'Nostrum Track',
+        'com.signTrack.android',
+        'Sign Track',
         importance: Importance.high,
         priority: Priority.high,
       ),
@@ -59,7 +59,7 @@ class LocalNotificationServices {
           presentAlert: true,
           presentBadge: true,
           presentSound: true,
-          threadIdentifier: 'Nostrum Track'),
+          threadIdentifier: 'Sign Track'),
     );
     _notificationsPlugin.show(
         DateTime.now().microsecond, title, body, notificationDetails);

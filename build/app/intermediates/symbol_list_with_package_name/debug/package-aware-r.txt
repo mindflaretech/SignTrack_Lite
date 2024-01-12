@@ -1,4 +1,4 @@
-com.nostrumlite.android
+com.signTrack.android
 attr activityAction
 attr activityName
 attr alpha
@@ -306,7 +306,6 @@ string common_open_on_phone
 string common_signin_button_text
 string common_signin_button_text_long
 string copy_toast_msg
-string default_web_client_id
 string exo_download_completed
 string exo_download_description
 string exo_download_downloading

@@ -1,4 +1,4 @@
-package com.nostrumlite.android
+package com.signTrack.android
 
 import io.flutter.embedding.android.FlutterActivity
 
